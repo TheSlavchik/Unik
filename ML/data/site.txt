@@ -1,0 +1,3060 @@
+<!doctype html >
+
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+
+<!--[if gt IE 8]><!--> <html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#"> <!--<![endif]-->
+
+<head>
+
+    <link media="all" href="https://www.usinflationcalculator.com/wp-content/cache/autoptimize/css/autoptimize_3e429acad115e78de295e320c4c673b9.css" rel="stylesheet"><link media="screen" href="https://www.usinflationcalculator.com/wp-content/cache/autoptimize/css/autoptimize_b1b49ef44ac1c3bcefc487db23e4f7ca.css" rel="stylesheet"><title>Consumer Price Index Data from 1913 to 2026</title>
+
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="pingback" href="https://www.usinflationcalculator.com/xmlrpc.php" />
+
+    
+		<!-- All in One SEO 4.9.3 - aioseo.com -->
+	<meta name="description" content="The Consumer Price Index (CPI-U) is provided by the U.S. Department of Labor Bureau of Labor Statistic and is used to measure inflation. The CPI is calculated and released monthly and powers this site&#039;s always-current Inflation Calculator, among other things. The CPI was last updated on February 13, covering data through January. February CPI figures are scheduled for" />
+	<meta name="robots" content="max-image-preview:large" />
+	<link rel="canonical" href="https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.9.3" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="US Inflation Calculator | Easily calculate how the buying power of the U.S. dollar has changed from 1913 to 2026. Get inflation rates and U.S. inflation news." />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Consumer Price Index Data from 1913 to 2026" />
+		<meta property="og:description" content="The Consumer Price Index (CPI-U) is provided by the U.S. Department of Labor Bureau of Labor Statistic and is used to measure inflation. The CPI is calculated and released monthly and powers this site&#039;s always-current Inflation Calculator, among other things. The CPI was last updated on February 13, covering data through January. February CPI figures are scheduled for" />
+		<meta property="og:url" content="https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/" />
+		<meta property="article:published_time" content="2008-07-19T04:03:03+00:00" />
+		<meta property="article:modified_time" content="2026-02-13T19:26:23+00:00" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Consumer Price Index Data from 1913 to 2026" />
+		<meta name="twitter:description" content="The Consumer Price Index (CPI-U) is provided by the U.S. Department of Labor Bureau of Labor Statistic and is used to measure inflation. The CPI is calculated and released monthly and powers this site&#039;s always-current Inflation Calculator, among other things. The CPI was last updated on February 13, covering data through January. February CPI figures are scheduled for" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.usinflationcalculator.com\/inflation\/consumer-price-index-and-annual-percent-changes-from-1913-to-2008\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.usinflationcalculator.com#listItem","position":1,"name":"Home","item":"https:\/\/www.usinflationcalculator.com","nextItem":{"@type":"ListItem","@id":"https:\/\/www.usinflationcalculator.com\/inflation\/#listItem","name":"Inflation and Prices"}},{"@type":"ListItem","@id":"https:\/\/www.usinflationcalculator.com\/inflation\/#listItem","position":2,"name":"Inflation and Prices","item":"https:\/\/www.usinflationcalculator.com\/inflation\/","nextItem":{"@type":"ListItem","@id":"https:\/\/www.usinflationcalculator.com\/inflation\/consumer-price-index-and-annual-percent-changes-from-1913-to-2008\/#listItem","name":"Consumer Price Index Data from 1913 to 2026"},"previousItem":{"@type":"ListItem","@id":"https:\/\/www.usinflationcalculator.com#listItem","name":"Home"}},{"@type":"ListItem","@id":"https:\/\/www.usinflationcalculator.com\/inflation\/consumer-price-index-and-annual-percent-changes-from-1913-to-2008\/#listItem","position":3,"name":"Consumer Price Index Data from 1913 to 2026","previousItem":{"@type":"ListItem","@id":"https:\/\/www.usinflationcalculator.com\/inflation\/#listItem","name":"Inflation and Prices"}}]},{"@type":"Organization","@id":"https:\/\/www.usinflationcalculator.com\/#organization","name":"US Inflation Calculator","description":"Easily calculate how the buying power of the U.S. dollar has changed from 1913 to 2026. Get inflation rates and U.S. inflation news.","url":"https:\/\/www.usinflationcalculator.com\/"},{"@type":"WebPage","@id":"https:\/\/www.usinflationcalculator.com\/inflation\/consumer-price-index-and-annual-percent-changes-from-1913-to-2008\/#webpage","url":"https:\/\/www.usinflationcalculator.com\/inflation\/consumer-price-index-and-annual-percent-changes-from-1913-to-2008\/","name":"Consumer Price Index Data from 1913 to 2026","description":"The Consumer Price Index (CPI-U) is provided by the U.S. Department of Labor Bureau of Labor Statistic and is used to measure inflation. The CPI is calculated and released monthly and powers this site's always-current Inflation Calculator, among other things. The CPI was last updated on February 13, covering data through January. February CPI figures are scheduled for","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.usinflationcalculator.com\/#website"},"breadcrumb":{"@id":"https:\/\/www.usinflationcalculator.com\/inflation\/consumer-price-index-and-annual-percent-changes-from-1913-to-2008\/#breadcrumblist"},"datePublished":"2008-07-19T00:03:03-04:00","dateModified":"2026-02-13T15:26:23-04:00"},{"@type":"WebSite","@id":"https:\/\/www.usinflationcalculator.com\/#website","url":"https:\/\/www.usinflationcalculator.com\/","name":"US Inflation Calculator","description":"Easily calculate how the buying power of the U.S. dollar has changed from 1913 to 2026. Get inflation rates and U.S. inflation news.","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.usinflationcalculator.com\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//widgetlogic.org' />
+<link rel='dns-prefetch' href='//www.usinflationcalculator.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel="alternate" type="application/rss+xml" title="US Inflation Calculator &raquo; Feed" href="https://www.usinflationcalculator.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="US Inflation Calculator &raquo; Comments Feed" href="https://www.usinflationcalculator.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.usinflationcalculator.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.usinflationcalculator.com%2Finflation%2Fconsumer-price-index-and-annual-percent-changes-from-1913-to-2008%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.usinflationcalculator.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.usinflationcalculator.com%2Finflation%2Fconsumer-price-index-and-annual-percent-changes-from-1913-to-2008%2F&#038;format=xml" />
+
+
+
+
+
+
+
+
+<link rel='stylesheet' id='google-fonts-style-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700%2C100italic%2C300%7CRoboto%3A400%2C500%2C700%2C100italic%2C300%7CMerriweather+Sans%3A400%7CLato%3A700%2C400&#038;display=swap&#038;ver=12.3.1' type='text/css' media='all' />
+
+
+
+
+
+
+<script type="text/javascript" src="https://www.usinflationcalculator.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+
+<link rel="https://api.w.org/" href="https://www.usinflationcalculator.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.usinflationcalculator.com/wp-json/wp/v2/pages/17" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.usinflationcalculator.com/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://wp.me/PoZpd-h' />
+<meta name="description" content="The Consumer Price Index�(CPI-U) is provided by the�U.S. Department of Labor Bureau of Labor Statistic and is used to measure inflation. The CPI is calculated and released monthly and powers ..." />
+	
+		<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+
+        <script>
+
+        window.tdb_global_vars = {"wpRestUrl":"https:\/\/www.usinflationcalculator.com\/wp-json\/","permalinkStructure":"\/%category%\/%postname%\/1000%post_id%\/"};
+
+        window.tdb_p_autoload_vars = {"isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":20};
+
+    </script>
+
+    
+    
+
+	
+
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+
+
+	    //td_block class - each ajax block uses a object of this class for requests
+
+	    function tdBlock() {
+
+		    this.id = '';
+
+		    this.block_type = 1; //block type id (1-234 etc)
+
+		    this.atts = '';
+
+		    this.td_column_number = '';
+
+		    this.td_current_page = 1; //
+
+		    this.post_count = 0; //from wp
+
+		    this.found_posts = 0; //from wp
+
+		    this.max_num_pages = 0; //from wp
+
+		    this.td_filter_value = ''; //current live filter value
+
+		    this.is_ajax_running = false;
+
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+
+		    this.header_color = '';
+
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+
+	    }
+
+
+
+
+
+        // td_js_generator - mini detector
+
+        (function(){
+
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+
+                htmlTag.className += ' ie10';
+
+            }
+
+
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+
+                htmlTag.className += ' ie11';
+
+            }
+
+
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+
+                htmlTag.className += ' ieEdge';
+
+            }
+
+
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+
+                htmlTag.className += ' td-md-is-ios';
+
+            }
+
+
+
+            var user_agent = navigator.userAgent.toLowerCase();
+
+            if ( user_agent.indexOf("android") > -1 ) {
+
+                htmlTag.className += ' td-md-is-android';
+
+            }
+
+
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+
+                htmlTag.className += ' td-md-is-os-x';
+
+            }
+
+
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+
+               htmlTag.className += ' td-md-is-chrome';
+
+            }
+
+
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+
+                htmlTag.className += ' td-md-is-firefox';
+
+            }
+
+
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+
+                htmlTag.className += ' td-md-is-safari';
+
+            }
+
+
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+
+                htmlTag.className += ' td-md-is-iemobile';
+
+            }
+
+
+
+        })();
+
+
+
+
+
+
+
+
+
+        var tdLocalCache = {};
+
+
+
+        ( function () {
+
+            "use strict";
+
+
+
+            tdLocalCache = {
+
+                data: {},
+
+                remove: function (resource_id) {
+
+                    delete tdLocalCache.data[resource_id];
+
+                },
+
+                exist: function (resource_id) {
+
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+
+                },
+
+                get: function (resource_id) {
+
+                    return tdLocalCache.data[resource_id];
+
+                },
+
+                set: function (resource_id, cachedData) {
+
+                    tdLocalCache.remove(resource_id);
+
+                    tdLocalCache.data[resource_id] = cachedData;
+
+                }
+
+            };
+
+        })();
+
+
+
+    
+
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img, .td-lazy-img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img, .td-animation-stack .td-lazy-img";
+var tds_general_modal_image="yes";
+var tdc_is_installed="yes";
+var td_ajax_url="https:\/\/www.usinflationcalculator.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=12.3.1";
+var td_get_template_directory_uri="https:\/\/www.usinflationcalculator.com\/wp-content\/plugins\/td-composer\/legacy\/common";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var td_user_incorrect="Username incorrect!";
+var td_email_user_empty="Email or username empty!";
+var td_pass_empty="Pass empty!";
+var td_pass_pattern_incorrect="Invalid Pass Pattern!";
+var td_retype_pass_incorrect="Retyped Pass incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#1a4e88";
+var tds_smart_sidebar="";
+var tdThemeName="Newspaper";
+var tdThemeNameWl="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdBlockNonce="5d339cdda6";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var tdb_modal_confirm="Save";
+var tdb_modal_cancel="Cancel";
+var tdb_modal_confirm_alt="Yes";
+var tdb_modal_cancel_alt="No";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+
+
+<!-- Google tag (gtag.js) -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2181571-7"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+
+
+  gtag('config', 'UA-2181571-7');
+
+</script>
+
+<script>
+
+function resizeIframe(obj) {
+
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+
+}
+
+</script>
+
+
+
+<script type="application/ld+json">
+
+    {
+
+        "@context": "http://schema.org",
+
+        "@type": "BreadcrumbList",
+
+        "itemListElement": [
+
+            {
+
+                "@type": "ListItem",
+
+                "position": 1,
+
+                "item": {
+
+                    "@type": "WebSite",
+
+                    "@id": "https://www.usinflationcalculator.com/",
+
+                    "name": "Home"
+
+                }
+
+            },
+
+            {
+
+                "@type": "ListItem",
+
+                "position": 2,
+
+                    "item": {
+
+                    "@type": "WebPage",
+
+                    "@id": "https://www.usinflationcalculator.com/inflation/",
+
+                    "name": "Inflation and Prices"
+
+                }
+
+            }
+
+            ,{
+
+                "@type": "ListItem",
+
+                "position": 3,
+
+                    "item": {
+
+                    "@type": "WebPage",
+
+                    "@id": "https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/",
+
+                    "name": "Consumer Price Index Data from 1913 to 2026"                                
+
+                }
+
+            }    
+
+        ]
+
+    }
+
+</script>
+<link rel="icon" href="https://www.usinflationcalculator.com/wp-content/uploads/2023/03/US-Inflation-Calculator-Favicon.png" sizes="32x32" />
+<link rel="icon" href="https://www.usinflationcalculator.com/wp-content/uploads/2023/03/US-Inflation-Calculator-Favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.usinflationcalculator.com/wp-content/uploads/2023/03/US-Inflation-Calculator-Favicon.png" />
+<meta name="msapplication-TileImage" content="https://www.usinflationcalculator.com/wp-content/uploads/2023/03/US-Inflation-Calculator-Favicon.png" />
+
+<!-- Button style compiled by theme -->
+
+
+
+	</head>
+
+
+
+<body class="wp-singular page-template-default page page-id-17 page-child parent-pageid-19 wp-theme-Newspaper td-standard-pack consumer-price-index-and-annual-percent-changes-from-1913-to-2008 global-block-template-1 tdb-template  tdc-header-template  tdc-footer-template td-animation-stack-type0 td-boxed-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+
+
+    
+
+    <div class="td-menu-background" style="visibility:hidden"></div>
+
+<div id="td-mobile-nav" style="visibility:hidden">
+
+    <div class="td-mobile-container">
+
+        <!-- mobile menu top section -->
+
+        <div class="td-menu-socials-wrap">
+
+            <!-- socials -->
+
+            <div class="td-menu-socials">
+
+                            </div>
+
+            <!-- close button -->
+
+            <div class="td-mobile-close">
+
+                <span><i class="td-icon-close-mobile"></i></span>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- login section -->
+
+        
+
+        <!-- menu section -->
+
+        <div class="td-mobile-content">
+
+            <div class="menu-mainmen-container"><ul id="menu-mainmen-1" class="td-mobile-main-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first menu-item-1343"><a href="http://www.usinflationcalculator.com/">Inflation Calculator</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1344"><a href="http://www.usinflationcalculator.com/inflation/">Inflation and Prices<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1349"><a href="https://www.usinflationcalculator.com/inflation/current-inflation-rates/">Current US Inflation Rates: 2000-2026</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1348"><a href="https://www.usinflationcalculator.com/inflation/historical-inflation-rates/">Historical Inflation Rates: 1914-2026</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17 current_page_item menu-item-1352"><a href="https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/">Consumer Price Index Data from 1913 to 2026</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1351"><a href="https://www.usinflationcalculator.com/inflation/consumer-price-index-release-schedule/">Consumer Price Index � Release Schedule</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353"><a href="https://www.usinflationcalculator.com/inflation/inflation-vs-consumer-price-index-cpi-how-they-are-different/">Inflation vs. Consumer Price Index (CPI), How They Are Different</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15703"><a href="https://www.usinflationcalculator.com/inflation/united-states-core-inflation-rates/">Core Inflation Rates</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22908"><a href="https://www.usinflationcalculator.com/inflation/rates-for-series-i-bonds/">Rates for I Bonds</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22750"><a href="https://www.usinflationcalculator.com/inflation/average-prices-for-selected-grocery-store-items-2015-present/">Grocery Store Prices</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22769"><a href="https://www.usinflationcalculator.com/inflation/energy-prices-gasoline-electricity-and-fuel-oil-2015-present/">Energy Prices: Gasoline, Electricity and Fuel Oil</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1350"><a href="https://www.usinflationcalculator.com/inflation/annual-averages-for-rate-of-inflation/">Average Inflation Rates</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1739"><a href="https://www.usinflationcalculator.com/monthly-us-inflation-rates-1913-present/">Monthly US Inflation Rates: 1913-Present</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15728"><a href="#">Gas, Food &#038; Other Inflation<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15726"><a href="https://www.usinflationcalculator.com/inflation/gasoline-inflation-in-the-united-states/">Gasoline Inflation (1968-2026)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15714"><a href="https://www.usinflationcalculator.com/inflation/food-inflation-in-the-united-states/">Food Inflation (1968-2026)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20964"><a href="https://www.usinflationcalculator.com/inflation/health-care-inflation-in-the-united-states/">Health Care Inflation (1948-2026)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22994"><a href="https://www.usinflationcalculator.com/inflation/college-tuition-inflation-in-the-united-states/">College Inflation (1978-2026)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23037"><a href="https://www.usinflationcalculator.com/inflation/airfare-inflation/">Airfare Inflation (1964-2026)</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20992"><a href="#">Items Adjusted for Inflation<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15779"><a href="https://www.usinflationcalculator.com/gasoline-prices-adjusted-for-inflation/">Gasoline Prices Adjusted for Inflation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20990"><a href="https://www.usinflationcalculator.com/inflation/electricity-prices-adjusted-for-inflation/">Electricity Prices By Year And Adjusted For Inflation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20977"><a href="https://www.usinflationcalculator.com/inflation/milk-prices-adjusted-for-inflation/">Milk Prices By Year And Adjusted For Inflation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21034"><a href="https://www.usinflationcalculator.com/inflation/coffee-prices-by-year-and-adjust-for-inflation/">Coffee Prices By Year And Adjusted For Inflation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21043"><a href="https://www.usinflationcalculator.com/inflation/bacon-prices-by-year-and-adjusted-for-inflation/">Bacon Prices By Year And Adjusted For Inflation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20997"><a href="https://www.usinflationcalculator.com/inflation/egg-prices-adjusted-for-inflation/">Egg Prices By Year And Adjusted For Inflation</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1345"><a href="https://www.usinflationcalculator.com/frequently-asked-questions-faqs/">FAQ�s</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-24217"><a href="#">More Calcs<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24220"><a href="https://www.usinflationcalculator.com/inflation/calculator-cumulative/">Inflation Calculator: By Month and Year (1913-2025)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24218"><a href="https://www.usinflationcalculator.com/inflation/inflation-in-new-york-newark-and-jersey-city-metropolitan-area/">Inflation in New York, Newark and Jersey City Metropolitan Area</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24219"><a href="https://www.usinflationcalculator.com/inflation/inflation-in-los-angeles-long-beach-and-anaheim-metropolitan-area/">Inflation in Los Angeles, Long Beach and Anaheim Metropolitan Area</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1346"><a href="https://www.usinflationcalculator.com/about/">About &#038; Contact Us</a></li>
+</ul></div>        </div>
+
+    </div>
+
+
+
+    <!-- register/login section -->
+
+    </div>    <div class="td-search-background" style="visibility:hidden"></div>
+
+<div class="td-search-wrap-mob" style="visibility:hidden">
+
+	<div class="td-drop-down-search">
+
+		<form method="get" class="td-search-form" action="https://www.usinflationcalculator.com/">
+
+			<!-- close button -->
+
+			<div class="td-search-close">
+
+				<span><i class="td-icon-close-mobile"></i></span>
+
+			</div>
+
+			<div role="search" class="td-search-input">
+
+				<span>Search</span>
+
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+
+			</div>
+
+		</form>
+
+		<div id="td-aj-search-mob" class="td-ajax-search-flex"></div>
+
+	</div>
+
+</div>
+
+
+
+    <div id="td-outer-wrap" class="td-theme-wrap">
+
+    
+
+                    <div class="td-header-template-wrap" style="position: relative">
+
+                                    <div class="td-header-mobile-wrap ">
+
+                        <div id="tdi_1" class="tdc-zone"><div class="tdc_zone tdi_2  wpb_row td-pb-row"  >
+<div id="tdi_3" class="tdc-row"><div class="vc_row tdi_4  wpb_row td-pb-row tdc-element-style" >
+
+<div class="tdi_3_rand_style td-element-style" ></div><div class="vc_column tdi_6  wpb_column vc_column_container tdc-column td-pb-span12">
+<div class="wpb_wrapper" ><div class="td-block td-a-rec td-a-rec-id-custom-spot tdi_7 td_block_template_1">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0374335159561115"
+     crossorigin="anonymous"></script>
+<!-- InflationCalcMobSq -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0374335159561115"
+     data-ad-slot="7552583541"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></div></div><div id="tdi_8" class="tdc-row"><div class="vc_row tdi_9  wpb_row td-pb-row tdc-element-style" >
+
+<div class="tdi_8_rand_style td-element-style" ></div><div class="vc_column tdi_11  wpb_column vc_column_container tdc-column td-pb-span4">
+<div class="wpb_wrapper" ><div class="td_block_wrap tdb_mobile_menu tdi_12 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_12" >
+
+<div class="tdb-block-inner td-fix-index"><span class="tdb-mobile-menu-button"><i class="tdb-mobile-menu-icon td-icon-mobile"></i></span></div></div> <!-- ./block --></div></div><div class="vc_column tdi_14  wpb_column vc_column_container tdc-column td-pb-span4">
+<div class="wpb_wrapper" ><div class="td_block_wrap tdb_header_logo tdi_15 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_15" >
+<div class="tdb-block-inner td-fix-index"><a class="tdb-logo-a" href="https://www.usinflationcalculator.com/"><span class="tdb-logo-img-wrap"><img class="tdb-logo-img" src="https://www.usinflationcalculator.com/wp-content/uploads/2023/03/US-Inflation-Calculator-Logo.jpg" alt="Find US Dollar\'s Value From 1913-2023"  title=""  width="296" height="83" /></span></a></div></div> <!-- ./block --></div></div><div class="vc_column tdi_17  wpb_column vc_column_container tdc-column td-pb-span4">
+<div class="wpb_wrapper" ><div class="td_block_wrap tdb_mobile_search tdi_18 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_18" >
+
+<div class="tdb-block-inner td-fix-index"><span class="tdb-header-search-button-mob dropdown-toggle" data-toggle="dropdown"><i class="tdb-mobile-search-icon td-icon-search"></i></span></div></div> <!-- ./block --></div></div></div></div></div></div>                    </div>
+
+                                    <div class="td-header-mobile-sticky-wrap tdc-zone-sticky-invisible tdc-zone-sticky-inactive" style="display: none">
+
+                        <div id="tdi_19" class="tdc-zone"><div class="tdc_zone tdi_20  wpb_row td-pb-row" data-sticky-offset="0" >
+<div id="tdi_21" class="tdc-row"><div class="vc_row tdi_22  wpb_row td-pb-row" >
+<div class="vc_column tdi_24  wpb_column vc_column_container tdc-column td-pb-span12">
+<div class="wpb_wrapper" ></div></div></div></div></div></div>                    </div>
+
+                
+
+                    <div class="td-header-desktop-wrap ">
+
+                        <div id="tdi_25" class="tdc-zone"><div class="tdc_zone tdi_26  wpb_row td-pb-row tdc-element-style"  >
+
+<div class="tdi_25_rand_style td-element-style" ></div><div id="tdi_27" class="tdc-row"><div class="vc_row tdi_28  wpb_row td-pb-row tdc-row-content-vert-center" >
+<div class="vc_column tdi_30  wpb_column vc_column_container tdc-column td-pb-span12">
+<div class="wpb_wrapper" ><div class="td_block_wrap tdb_header_logo tdi_31 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_31" >
+
+<div class="tdb-block-inner td-fix-index"><a class="tdb-logo-a" href="https://www.usinflationcalculator.com/"><span class="tdb-logo-img-wrap"><img class="tdb-logo-img" src="https://www.usinflationcalculator.com/wp-content/uploads/2023/03/US-Inflation-Calculator-Logo.jpg" alt="Find US Dollar\'s Value From 1913-2023"  title=""  width="296" height="83" /></span></a></div></div> <!-- ./block --></div></div></div></div><div id="tdi_32" class="tdc-row stretch_row"><div class="vc_row tdi_33  wpb_row td-pb-row tdc-element-style" >
+
+<div class="tdi_32_rand_style td-element-style" ></div><div class="vc_column tdi_35  wpb_column vc_column_container tdc-column td-pb-span12">
+
+<div class="tdi_34_rand_style td-element-style" ></div><div class="wpb_wrapper" ><div class="td_block_wrap tdb_header_menu tdi_36 tds_menu_active1 tds_menu_sub_active1 tdb-head-menu-inline tdb-menu-items-in-more tdb-mm-align-screen td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_36"  style=" z-index: 999;">
+
+
+<div id=tdi_36 class="td_block_inner td-fix-index"><div class="tdb-main-sub-icon-fake"><i class="tdb-sub-menu-icon td-icon-down tdb-main-sub-menu-icon"></i></div><div class="tdb-sub-icon-fake"><i class="tdb-sub-menu-icon td-icon-right-arrow"></i></div><div class="tdb-menu-items-pulldown tdb-menu-items-pulldown-inactive"><ul id="menu-mainmen-2" class="tdb-block-menu tdb-menu tdb-menu-items-visible"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-1343"><a href="http://www.usinflationcalculator.com/"><div class="tdb-menu-item-text">Inflation Calculator</div></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-1344 tdb-menu-item-inactive"><a href="http://www.usinflationcalculator.com/inflation/"><div class="tdb-menu-item-text">Inflation and Prices</div><i class="tdb-sub-menu-icon td-icon-down tdb-main-sub-menu-icon"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-1349"><a href="https://www.usinflationcalculator.com/inflation/current-inflation-rates/"><div class="tdb-menu-item-text">Current US Inflation Rates: 2000-2026</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-1348"><a href="https://www.usinflationcalculator.com/inflation/historical-inflation-rates/"><div class="tdb-menu-item-text">Historical Inflation Rates: 1914-2026</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17 current_page_item tdb-menu-item tdb-normal-menu menu-item-1352"><a href="https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/"><div class="tdb-menu-item-text">Consumer Price Index Data from 1913 to 2026</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-1351"><a href="https://www.usinflationcalculator.com/inflation/consumer-price-index-release-schedule/"><div class="tdb-menu-item-text">Consumer Price Index � Release Schedule</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-1353"><a href="https://www.usinflationcalculator.com/inflation/inflation-vs-consumer-price-index-cpi-how-they-are-different/"><div class="tdb-menu-item-text">Inflation vs. Consumer Price Index (CPI), How They Are Different</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-15703"><a href="https://www.usinflationcalculator.com/inflation/united-states-core-inflation-rates/"><div class="tdb-menu-item-text">Core Inflation Rates</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-22908"><a href="https://www.usinflationcalculator.com/inflation/rates-for-series-i-bonds/"><div class="tdb-menu-item-text">Rates for I Bonds</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-22750"><a href="https://www.usinflationcalculator.com/inflation/average-prices-for-selected-grocery-store-items-2015-present/"><div class="tdb-menu-item-text">Grocery Store Prices</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-22769"><a href="https://www.usinflationcalculator.com/inflation/energy-prices-gasoline-electricity-and-fuel-oil-2015-present/"><div class="tdb-menu-item-text">Energy Prices: Gasoline, Electricity and Fuel Oil</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-1350"><a href="https://www.usinflationcalculator.com/inflation/annual-averages-for-rate-of-inflation/"><div class="tdb-menu-item-text">Average Inflation Rates</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-1739"><a href="https://www.usinflationcalculator.com/monthly-us-inflation-rates-1913-present/"><div class="tdb-menu-item-text">Monthly US Inflation Rates: 1913-Present</div></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-15728 tdb-menu-item-inactive"><a href="#"><div class="tdb-menu-item-text">Gas, Food &#038; Other Inflation</div><i class="tdb-sub-menu-icon td-icon-down tdb-main-sub-menu-icon"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-15726"><a href="https://www.usinflationcalculator.com/inflation/gasoline-inflation-in-the-united-states/"><div class="tdb-menu-item-text">Gasoline Inflation (1968-2026)</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-15714"><a href="https://www.usinflationcalculator.com/inflation/food-inflation-in-the-united-states/"><div class="tdb-menu-item-text">Food Inflation (1968-2026)</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-20964"><a href="https://www.usinflationcalculator.com/inflation/health-care-inflation-in-the-united-states/"><div class="tdb-menu-item-text">Health Care Inflation (1948-2026)</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-22994"><a href="https://www.usinflationcalculator.com/inflation/college-tuition-inflation-in-the-united-states/"><div class="tdb-menu-item-text">College Inflation (1978-2026)</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-23037"><a href="https://www.usinflationcalculator.com/inflation/airfare-inflation/"><div class="tdb-menu-item-text">Airfare Inflation (1964-2026)</div></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-20992 tdb-menu-item-inactive"><a href="#"><div class="tdb-menu-item-text">Items Adjusted for Inflation</div><i class="tdb-sub-menu-icon td-icon-down tdb-main-sub-menu-icon"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-15779"><a href="https://www.usinflationcalculator.com/gasoline-prices-adjusted-for-inflation/"><div class="tdb-menu-item-text">Gasoline Prices Adjusted for Inflation</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-20990"><a href="https://www.usinflationcalculator.com/inflation/electricity-prices-adjusted-for-inflation/"><div class="tdb-menu-item-text">Electricity Prices By Year And Adjusted For Inflation</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-20977"><a href="https://www.usinflationcalculator.com/inflation/milk-prices-adjusted-for-inflation/"><div class="tdb-menu-item-text">Milk Prices By Year And Adjusted For Inflation</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-21034"><a href="https://www.usinflationcalculator.com/inflation/coffee-prices-by-year-and-adjust-for-inflation/"><div class="tdb-menu-item-text">Coffee Prices By Year And Adjusted For Inflation</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-21043"><a href="https://www.usinflationcalculator.com/inflation/bacon-prices-by-year-and-adjusted-for-inflation/"><div class="tdb-menu-item-text">Bacon Prices By Year And Adjusted For Inflation</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-20997"><a href="https://www.usinflationcalculator.com/inflation/egg-prices-adjusted-for-inflation/"><div class="tdb-menu-item-text">Egg Prices By Year And Adjusted For Inflation</div></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-1345"><a href="https://www.usinflationcalculator.com/frequently-asked-questions-faqs/"><div class="tdb-menu-item-text">FAQ�s</div></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-24217 tdb-menu-item-inactive"><a href="#"><div class="tdb-menu-item-text">More Calcs</div><i class="tdb-sub-menu-icon td-icon-down tdb-main-sub-menu-icon"></i></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-24220"><a href="https://www.usinflationcalculator.com/inflation/calculator-cumulative/"><div class="tdb-menu-item-text">Inflation Calculator: By Month and Year (1913-2025)</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-24218"><a href="https://www.usinflationcalculator.com/inflation/inflation-in-new-york-newark-and-jersey-city-metropolitan-area/"><div class="tdb-menu-item-text">Inflation in New York, Newark and Jersey City Metropolitan Area</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item tdb-normal-menu menu-item-24219"><a href="https://www.usinflationcalculator.com/inflation/inflation-in-los-angeles-long-beach-and-anaheim-metropolitan-area/"><div class="tdb-menu-item-text">Inflation in Los Angeles, Long Beach and Anaheim Metropolitan Area</div></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page tdb-menu-item-button tdb-menu-item tdb-normal-menu menu-item-1346"><a href="https://www.usinflationcalculator.com/about/"><div class="tdb-menu-item-text">About &#038; Contact Us</div></a></li>
+</ul><div class="tdb-menu-items-dropdown"><div class="td-subcat-more"><div class="tdb-menu-item-text">More</div><i class="tdb-menu-more-subicon td-icon-down tdb-main-sub-menu-icon"></i><ul class="td-pulldown-filter-list"></ul></div></div></div></div></div><div class="td_block_wrap tdb_header_search tdi_39 tdb-header-search-trigger-enabled td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_39" >
+<div class="tdb-block-inner td-fix-index"><div class="tdb-drop-down-search" aria-labelledby="td-header-search-button"><div class="tdb-drop-down-search-inner"><form method="get" class="tdb-search-form" action="https://www.usinflationcalculator.com/"><div class="tdb-search-form-inner"><input class="tdb-head-search-form-input" placeholder=" " type="text" value="" name="s" autocomplete="off" /><button class="wpb_button wpb_btn-inverse btn tdb-head-search-form-btn" type="submit"><span>Search</span></button></div></form><div class="tdb-aj-search"></div></div></div><a href="#" role="button" aria-label="Search" class="tdb-head-search-btn dropdown-toggle" data-toggle="dropdown"><i class="tdb-search-icon td-icon-search"></i></a></div></div> <!-- ./block --></div></div></div></div></div></div>                    </div>
+
+                                <div class="td-header-desktop-sticky-wrap tdc-zone-sticky-invisible tdc-zone-sticky-inactive" style="display: none">
+
+                    <div id="tdi_40" class="tdc-zone"><div class="tdc_zone tdi_41  wpb_row td-pb-row" data-sticky-offset="0" >
+<div id="tdi_42" class="tdc-row"><div class="vc_row tdi_43  wpb_row td-pb-row" >
+<div class="vc_column tdi_45  wpb_column vc_column_container tdc-column td-pb-span12">
+<div class="wpb_wrapper" ></div></div></div></div></div></div>                </div>
+
+            </div>
+
+            
+
+
+
+
+
+<div class="td-main-content-wrap td-container-wrap ">
+
+    <div class="td-container tdc-content-wrap ">
+
+        <div class="td-crumb-container">
+
+            <div class="entry-crumbs"><span><a title="" class="entry-crumb" href="https://www.usinflationcalculator.com/">Home</a></span> <i class="td-icon-right td-bread-sep"></i> <span><a title="Inflation and Prices" class="entry-crumb" href="https://www.usinflationcalculator.com/inflation/">Inflation and Prices</a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Consumer Price Index Data from 1913 to 2026</span></div>        </div>
+
+        <div class="td-pb-row">
+
+                                <div class="td-pb-span12 td-main-content" role="main">
+
+
+
+                                                        <div class="td-page-header">
+
+                                    <h1 class="entry-title td-page-title">
+
+                                        <span>Consumer Price Index Data from 1913 to 2026</span>
+
+                                    </h1>
+
+                                </div>
+
+                                <div class="td-page-content tagdiv-type">
+
+                                <p>The <strong>Consumer Price Index</strong>�(CPI-U) is provided by the�<a href="http://www.bls.gov/" title="U.S. Department of Labor Bureau of Labor Statistic">U.S. Department of Labor Bureau of Labor Statistic</a> and is used to measure inflation. The CPI is calculated and released monthly and powers this site&#8217;s always-current�<a href="http://www.usinflationcalculator.com/">Inflation Calculator</a>, among other things. The CPI was last updated on February 13, covering data through January. February CPI figures are scheduled for release on March 11, 2026.</p>
+<p><strong>What is the CPI</strong>? Before jumping into the data, if you want to learn about the Consumer Price Index and how it is used to calculate inflation,�<a href="http://www.usinflationcalculator.com/inflation/inflation-vs-consumer-price-index-cpi-how-they-are-different/" title="Inflation vs. Consumer Price Index (CPI), How They Are Different">read this CPI article</a>.</p>
+<p>This first chart displays pricing changes over time, which shows inflation, for major categories tracked in the Consumer Price Index. (Below the chart is a table of overall CPI values since 1913.) The change in prices for each category is from January 2019 through January 2026. Simply hover over the chart to view the data, or select a specific category from the legend key, which is found to the right of the chart. Just click or tap on it to visually highlight the selected category in the chart, making it easy to locate and track its percentage change over the years.</p>
+<p><iframe src="https://www.usinflationcalculator.com/charts/inflation/prices-all-items.html" onload="resizeIframe(this)" style="width:100%;border:none;"></iframe></p>
+<p><em>October 2025 data was unavailable due to the 2025 lapse in appropriations.</em></p>
+<p>Finally, the next grouping of data shows actually CPI figures from 1913 to present.</p>
+<h3>Consumer Price Index for All Urban Consumers (CPI-U) from 1913 to 2026*</h3>
+<div style="overflow-x:auto;">
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="35"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right" width="49"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"><strong>Annual</strong></td>
+<td colspan="2" align="right" width="114"><strong>Percent Change</strong></td>
+</tr>
+<tr>
+<td align="center"><strong>Year</strong></td>
+<td align="center"><strong>Jan</strong></td>
+<td align="center"><strong>Feb</strong></td>
+<td align="center"><strong>Mar</strong></td>
+<td align="center"><strong>Apr</strong></td>
+<td align="center"><strong>May</strong></td>
+<td align="center"><strong>June</strong></td>
+<td align="center"><strong>July</strong></td>
+<td align="center"><strong>Aug</strong></td>
+<td align="center"><strong>Sep</strong></td>
+<td align="center"><strong>Oct</strong></td>
+<td align="center"><strong>Nov</strong></td>
+<td align="center"><strong>Dec</strong></td>
+<td align="center"><strong>Avg</strong></td>
+<td align="center"><strong>Dec-Dec</strong></td>
+<td align="center"><strong>Avg-Avg</strong></td>
+</tr>
+<tr>
+<td align="center"><strong>1913</strong></td>
+<td align="center">9.8</td>
+<td align="center">9.8</td>
+<td align="center">9.8</td>
+<td align="center">9.8</td>
+<td align="center">9.7</td>
+<td align="center">9.8</td>
+<td align="center">9.9</td>
+<td align="center">9.9</td>
+<td align="center">10.0</td>
+<td align="center">10.0</td>
+<td align="center">10.1</td>
+<td align="center">10.0</td>
+<td align="center">9.9</td>
+<td align="center">�</td>
+<td align="center">�</td>
+</tr>
+<tr>
+<td align="center"><strong>1914</strong></td>
+<td align="center">10.0</td>
+<td align="center">9.9</td>
+<td align="center">9.9</td>
+<td align="center">9.8</td>
+<td align="center">9.9</td>
+<td align="center">9.9</td>
+<td align="center">10.0</td>
+<td align="center">10.2</td>
+<td align="center">10.2</td>
+<td align="center">10.1</td>
+<td align="center">10.2</td>
+<td align="center">10.1</td>
+<td align="center">10.0</td>
+<td align="center">1.0</td>
+<td align="center">1.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1915</strong></td>
+<td align="center">10.1</td>
+<td align="center">10.0</td>
+<td align="center">9.9</td>
+<td align="center">10.0</td>
+<td align="center">10.1</td>
+<td align="center">10.1</td>
+<td align="center">10.1</td>
+<td align="center">10.1</td>
+<td align="center">10.1</td>
+<td align="center">10.2</td>
+<td align="center">10.3</td>
+<td align="center">10.3</td>
+<td align="center">10.1</td>
+<td align="center">2.0</td>
+<td align="center">1.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1916</strong></td>
+<td align="center">10.4</td>
+<td align="center">10.4</td>
+<td align="center">10.5</td>
+<td align="center">10.6</td>
+<td align="center">10.7</td>
+<td align="center">10.8</td>
+<td align="center">10.8</td>
+<td align="center">10.9</td>
+<td align="center">11.1</td>
+<td align="center">11.3</td>
+<td align="center">11.5</td>
+<td align="center">11.6</td>
+<td align="center">10.9</td>
+<td align="center">12.6</td>
+<td align="center">7.9</td>
+</tr>
+<tr>
+<td align="center"><strong>1917</strong></td>
+<td align="center">11.7</td>
+<td align="center">12.0</td>
+<td align="center">12.0</td>
+<td align="center">12.6</td>
+<td align="center">12.8</td>
+<td align="center">13.0</td>
+<td align="center">12.8</td>
+<td align="center">13.0</td>
+<td align="center">13.3</td>
+<td align="center">13.5</td>
+<td align="center">13.5</td>
+<td align="center">13.7</td>
+<td align="center">12.8</td>
+<td align="center">18.1</td>
+<td align="center">17.4</td>
+</tr>
+<tr>
+<td align="center"><strong>1918</strong></td>
+<td align="center">14.0</td>
+<td align="center">14.1</td>
+<td align="center">14.0</td>
+<td align="center">14.2</td>
+<td align="center">14.5</td>
+<td align="center">14.7</td>
+<td align="center">15.1</td>
+<td align="center">15.4</td>
+<td align="center">15.7</td>
+<td align="center">16.0</td>
+<td align="center">16.3</td>
+<td align="center">16.5</td>
+<td align="center">15.1</td>
+<td align="center">20.4</td>
+<td align="center">18.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1919</strong></td>
+<td align="center">16.5</td>
+<td align="center">16.2</td>
+<td align="center">16.4</td>
+<td align="center">16.7</td>
+<td align="center">16.9</td>
+<td align="center">16.9</td>
+<td align="center">17.4</td>
+<td align="center">17.7</td>
+<td align="center">17.8</td>
+<td align="center">18.1</td>
+<td align="center">18.5</td>
+<td align="center">18.9</td>
+<td align="center">17.3</td>
+<td align="center">14.5</td>
+<td align="center">14.6</td>
+</tr>
+<tr>
+<td align="center"><strong>1920</strong></td>
+<td align="center">19.3</td>
+<td align="center">19.5</td>
+<td align="center">19.7</td>
+<td align="center">20.3</td>
+<td align="center">20.6</td>
+<td align="center">20.9</td>
+<td align="center">20.8</td>
+<td align="center">20.3</td>
+<td align="center">20.0</td>
+<td align="center">19.9</td>
+<td align="center">19.8</td>
+<td align="center">19.4</td>
+<td align="center">20.0</td>
+<td align="center">2.6</td>
+<td align="center">15.6</td>
+</tr>
+<tr>
+<td align="center"><strong>1921</strong></td>
+<td align="center">19.0</td>
+<td align="center">18.4</td>
+<td align="center">18.3</td>
+<td align="center">18.1</td>
+<td align="center">17.7</td>
+<td align="center">17.6</td>
+<td align="center">17.7</td>
+<td align="center">17.7</td>
+<td align="center">17.5</td>
+<td align="center">17.5</td>
+<td align="center">17.4</td>
+<td align="center">17.3</td>
+<td align="center">17.9</td>
+<td align="center">-10.8</td>
+<td align="center">-10.5</td>
+</tr>
+<tr>
+<td align="center"><strong>1922</strong></td>
+<td align="center">16.9</td>
+<td align="center">16.9</td>
+<td align="center">16.7</td>
+<td align="center">16.7</td>
+<td align="center">16.7</td>
+<td align="center">16.7</td>
+<td align="center">16.8</td>
+<td align="center">16.6</td>
+<td align="center">16.6</td>
+<td align="center">16.7</td>
+<td align="center">16.8</td>
+<td align="center">16.9</td>
+<td align="center">16.8</td>
+<td align="center">-2.3</td>
+<td align="center">-6.1</td>
+</tr>
+<tr>
+<td align="center"><strong>1923</strong></td>
+<td align="center">16.8</td>
+<td align="center">16.8</td>
+<td align="center">16.8</td>
+<td align="center">16.9</td>
+<td align="center">16.9</td>
+<td align="center">17.0</td>
+<td align="center">17.2</td>
+<td align="center">17.1</td>
+<td align="center">17.2</td>
+<td align="center">17.3</td>
+<td align="center">17.3</td>
+<td align="center">17.3</td>
+<td align="center">17.1</td>
+<td align="center">2.4</td>
+<td align="center">1.8</td>
+</tr>
+<tr>
+<td align="center"><strong>1924</strong></td>
+<td align="center">17.3</td>
+<td align="center">17.2</td>
+<td align="center">17.1</td>
+<td align="center">17.0</td>
+<td align="center">17.0</td>
+<td align="center">17.0</td>
+<td align="center">17.1</td>
+<td align="center">17.0</td>
+<td align="center">17.1</td>
+<td align="center">17.2</td>
+<td align="center">17.2</td>
+<td align="center">17.3</td>
+<td align="center">17.1</td>
+<td align="center">0.0</td>
+<td align="center">0.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1925</strong></td>
+<td align="center">17.3</td>
+<td align="center">17.2</td>
+<td align="center">17.3</td>
+<td align="center">17.2</td>
+<td align="center">17.3</td>
+<td align="center">17.5</td>
+<td align="center">17.7</td>
+<td align="center">17.7</td>
+<td align="center">17.7</td>
+<td align="center">17.7</td>
+<td align="center">18.0</td>
+<td align="center">17.9</td>
+<td align="center">17.5</td>
+<td align="center">3.5</td>
+<td align="center">2.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1926</strong></td>
+<td align="center">17.9</td>
+<td align="center">17.9</td>
+<td align="center">17.8</td>
+<td align="center">17.9</td>
+<td align="center">17.8</td>
+<td align="center">17.7</td>
+<td align="center">17.5</td>
+<td align="center">17.4</td>
+<td align="center">17.5</td>
+<td align="center">17.6</td>
+<td align="center">17.7</td>
+<td align="center">17.7</td>
+<td align="center">17.7</td>
+<td align="center">-1.1</td>
+<td align="center">1.1</td>
+</tr>
+<tr>
+<td align="center"><strong>1927</strong></td>
+<td align="center">17.5</td>
+<td align="center">17.4</td>
+<td align="center">17.3</td>
+<td align="center">17.3</td>
+<td align="center">17.4</td>
+<td align="center">17.6</td>
+<td align="center">17.3</td>
+<td align="center">17.2</td>
+<td align="center">17.3</td>
+<td align="center">17.4</td>
+<td align="center">17.3</td>
+<td align="center">17.3</td>
+<td align="center">17.4</td>
+<td align="center">-2.3</td>
+<td align="center">-1.7</td>
+</tr>
+<tr>
+<td align="center"><strong>1928</strong></td>
+<td align="center">17.3</td>
+<td align="center">17.1</td>
+<td align="center">17.1</td>
+<td align="center">17.1</td>
+<td align="center">17.2</td>
+<td align="center">17.1</td>
+<td align="center">17.1</td>
+<td align="center">17.1</td>
+<td align="center">17.3</td>
+<td align="center">17.2</td>
+<td align="center">17.2</td>
+<td align="center">17.1</td>
+<td align="center">17.1</td>
+<td align="center">-1.2</td>
+<td align="center">-1.7</td>
+</tr>
+<tr>
+<td align="center"><strong>1929</strong></td>
+<td align="center">17.1</td>
+<td align="center">17.1</td>
+<td align="center">17.0</td>
+<td align="center">16.9</td>
+<td align="center">17.0</td>
+<td align="center">17.1</td>
+<td align="center">17.3</td>
+<td align="center">17.3</td>
+<td align="center">17.3</td>
+<td align="center">17.3</td>
+<td align="center">17.3</td>
+<td align="center">17.2</td>
+<td align="center">17.1</td>
+<td align="center">0.6</td>
+<td align="center">0.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1930</strong></td>
+<td align="center">17.1</td>
+<td align="center">17.0</td>
+<td align="center">16.9</td>
+<td align="center">17.0</td>
+<td align="center">16.9</td>
+<td align="center">16.8</td>
+<td align="center">16.6</td>
+<td align="center">16.5</td>
+<td align="center">16.6</td>
+<td align="center">16.5</td>
+<td align="center">16.4</td>
+<td align="center">16.1</td>
+<td align="center">16.7</td>
+<td align="center">-6.4</td>
+<td align="center">-2.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1931</strong></td>
+<td align="center">15.9</td>
+<td align="center">15.7</td>
+<td align="center">15.6</td>
+<td align="center">15.5</td>
+<td align="center">15.3</td>
+<td align="center">15.1</td>
+<td align="center">15.1</td>
+<td align="center">15.1</td>
+<td align="center">15.0</td>
+<td align="center">14.9</td>
+<td align="center">14.7</td>
+<td align="center">14.6</td>
+<td align="center">15.2</td>
+<td align="center">-9.3</td>
+<td align="center">-9.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1932</strong></td>
+<td align="center">14.3</td>
+<td align="center">14.1</td>
+<td align="center">14.0</td>
+<td align="center">13.9</td>
+<td align="center">13.7</td>
+<td align="center">13.6</td>
+<td align="center">13.6</td>
+<td align="center">13.5</td>
+<td align="center">13.4</td>
+<td align="center">13.3</td>
+<td align="center">13.2</td>
+<td align="center">13.1</td>
+<td align="center">13.7</td>
+<td align="center">-10.3</td>
+<td align="center">-9.9</td>
+</tr>
+<tr>
+<td align="center"><strong>1933</strong></td>
+<td align="center">12.9</td>
+<td align="center">12.7</td>
+<td align="center">12.6</td>
+<td align="center">12.6</td>
+<td align="center">12.6</td>
+<td align="center">12.7</td>
+<td align="center">13.1</td>
+<td align="center">13.2</td>
+<td align="center">13.2</td>
+<td align="center">13.2</td>
+<td align="center">13.2</td>
+<td align="center">13.2</td>
+<td align="center">13.0</td>
+<td align="center">0.8</td>
+<td align="center">-5.1</td>
+</tr>
+<tr>
+<td align="center"><strong>1934</strong></td>
+<td align="center">13.2</td>
+<td align="center">13.3</td>
+<td align="center">13.3</td>
+<td align="center">13.3</td>
+<td align="center">13.3</td>
+<td align="center">13.4</td>
+<td align="center">13.4</td>
+<td align="center">13.4</td>
+<td align="center">13.6</td>
+<td align="center">13.5</td>
+<td align="center">13.5</td>
+<td align="center">13.4</td>
+<td align="center">13.4</td>
+<td align="center">1.5</td>
+<td align="center">3.1</td>
+</tr>
+<tr>
+<td align="center"><strong>1935</strong></td>
+<td align="center">13.6</td>
+<td align="center">13.7</td>
+<td align="center">13.7</td>
+<td align="center">13.8</td>
+<td align="center">13.8</td>
+<td align="center">13.7</td>
+<td align="center">13.7</td>
+<td align="center">13.7</td>
+<td align="center">13.7</td>
+<td align="center">13.7</td>
+<td align="center">13.8</td>
+<td align="center">13.8</td>
+<td align="center">13.7</td>
+<td align="center">3.0</td>
+<td align="center">2.2</td>
+</tr>
+<tr>
+<td align="center"><strong>1936</strong></td>
+<td align="center">13.8</td>
+<td align="center">13.8</td>
+<td align="center">13.7</td>
+<td align="center">13.7</td>
+<td align="center">13.7</td>
+<td align="center">13.8</td>
+<td align="center">13.9</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">13.9</td>
+<td align="center">1.4</td>
+<td align="center">1.5</td>
+</tr>
+<tr>
+<td align="center"><strong>1937</strong></td>
+<td align="center">14.1</td>
+<td align="center">14.1</td>
+<td align="center">14.2</td>
+<td align="center">14.3</td>
+<td align="center">14.4</td>
+<td align="center">14.4</td>
+<td align="center">14.5</td>
+<td align="center">14.5</td>
+<td align="center">14.6</td>
+<td align="center">14.6</td>
+<td align="center">14.5</td>
+<td align="center">14.4</td>
+<td align="center">14.4</td>
+<td align="center">2.9</td>
+<td align="center">3.6</td>
+</tr>
+<tr>
+<td align="center"><strong>1938</strong></td>
+<td align="center">14.2</td>
+<td align="center">14.1</td>
+<td align="center">14.1</td>
+<td align="center">14.2</td>
+<td align="center">14.1</td>
+<td align="center">14.1</td>
+<td align="center">14.1</td>
+<td align="center">14.1</td>
+<td align="center">14.1</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.1</td>
+<td align="center">-2.8</td>
+<td align="center">-2.1</td>
+</tr>
+<tr>
+<td align="center"><strong>1939</strong></td>
+<td align="center">14.0</td>
+<td align="center">13.9</td>
+<td align="center">13.9</td>
+<td align="center">13.8</td>
+<td align="center">13.8</td>
+<td align="center">13.8</td>
+<td align="center">13.8</td>
+<td align="center">13.8</td>
+<td align="center">14.1</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">13.9</td>
+<td align="center">0.0</td>
+<td align="center">-1.4</td>
+</tr>
+<tr>
+<td align="center"><strong>1940</strong></td>
+<td align="center">13.9</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.1</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.0</td>
+<td align="center">14.1</td>
+<td align="center">14.0</td>
+<td align="center">0.7</td>
+<td align="center">0.7</td>
+</tr>
+<tr>
+<td align="center"><strong>1941</strong></td>
+<td align="center">14.1</td>
+<td align="center">14.1</td>
+<td align="center">14.2</td>
+<td align="center">14.3</td>
+<td align="center">14.4</td>
+<td align="center">14.7</td>
+<td align="center">14.7</td>
+<td align="center">14.9</td>
+<td align="center">15.1</td>
+<td align="center">15.3</td>
+<td align="center">15.4</td>
+<td align="center">15.5</td>
+<td align="center">14.7</td>
+<td align="center">9.9</td>
+<td align="center">5.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1942</strong></td>
+<td align="center">15.7</td>
+<td align="center">15.8</td>
+<td align="center">16.0</td>
+<td align="center">16.1</td>
+<td align="center">16.3</td>
+<td align="center">16.3</td>
+<td align="center">16.4</td>
+<td align="center">16.5</td>
+<td align="center">16.5</td>
+<td align="center">16.7</td>
+<td align="center">16.8</td>
+<td align="center">16.9</td>
+<td align="center">16.3</td>
+<td align="center">9.0</td>
+<td align="center">10.9</td>
+</tr>
+<tr>
+<td align="center"><strong>1943</strong></td>
+<td align="center">16.9</td>
+<td align="center">16.9</td>
+<td align="center">17.2</td>
+<td align="center">17.4</td>
+<td align="center">17.5</td>
+<td align="center">17.5</td>
+<td align="center">17.4</td>
+<td align="center">17.3</td>
+<td align="center">17.4</td>
+<td align="center">17.4</td>
+<td align="center">17.4</td>
+<td align="center">17.4</td>
+<td align="center">17.3</td>
+<td align="center">3.0</td>
+<td align="center">6.1</td>
+</tr>
+<tr>
+<td align="center"><strong>1944</strong></td>
+<td align="center">17.4</td>
+<td align="center">17.4</td>
+<td align="center">17.4</td>
+<td align="center">17.5</td>
+<td align="center">17.5</td>
+<td align="center">17.6</td>
+<td align="center">17.7</td>
+<td align="center">17.7</td>
+<td align="center">17.7</td>
+<td align="center">17.7</td>
+<td align="center">17.7</td>
+<td align="center">17.8</td>
+<td align="center">17.6</td>
+<td align="center">2.3</td>
+<td align="center">1.7</td>
+</tr>
+<tr>
+<td align="center"><strong>1945</strong></td>
+<td align="center">17.8</td>
+<td align="center">17.8</td>
+<td align="center">17.8</td>
+<td align="center">17.8</td>
+<td align="center">17.9</td>
+<td align="center">18.1</td>
+<td align="center">18.1</td>
+<td align="center">18.1</td>
+<td align="center">18.1</td>
+<td align="center">18.1</td>
+<td align="center">18.1</td>
+<td align="center">18.2</td>
+<td align="center">18.0</td>
+<td align="center">2.2</td>
+<td align="center">2.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1946</strong></td>
+<td align="center">18.2</td>
+<td align="center">18.1</td>
+<td align="center">18.3</td>
+<td align="center">18.4</td>
+<td align="center">18.5</td>
+<td align="center">18.7</td>
+<td align="center">19.8</td>
+<td align="center">20.2</td>
+<td align="center">20.4</td>
+<td align="center">20.8</td>
+<td align="center">21.3</td>
+<td align="center">21.5</td>
+<td align="center">19.5</td>
+<td align="center">18.1</td>
+<td align="center">8.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1947</strong></td>
+<td align="center">21.5</td>
+<td align="center">21.5</td>
+<td align="center">21.9</td>
+<td align="center">21.9</td>
+<td align="center">21.9</td>
+<td align="center">22.0</td>
+<td align="center">22.2</td>
+<td align="center">22.5</td>
+<td align="center">23.0</td>
+<td align="center">23.0</td>
+<td align="center">23.1</td>
+<td align="center">23.4</td>
+<td align="center">22.3</td>
+<td align="center">8.8</td>
+<td align="center">14.4</td>
+</tr>
+<tr>
+<td align="center"><strong>1948</strong></td>
+<td align="center">23.7</td>
+<td align="center">23.5</td>
+<td align="center">23.4</td>
+<td align="center">23.8</td>
+<td align="center">23.9</td>
+<td align="center">24.1</td>
+<td align="center">24.4</td>
+<td align="center">24.5</td>
+<td align="center">24.5</td>
+<td align="center">24.4</td>
+<td align="center">24.2</td>
+<td align="center">24.1</td>
+<td align="center">24.1</td>
+<td align="center">3.0</td>
+<td align="center">8.1</td>
+</tr>
+<tr>
+<td align="center"><strong>1949</strong></td>
+<td align="center">24.0</td>
+<td align="center">23.8</td>
+<td align="center">23.8</td>
+<td align="center">23.9</td>
+<td align="center">23.8</td>
+<td align="center">23.9</td>
+<td align="center">23.7</td>
+<td align="center">23.8</td>
+<td align="center">23.9</td>
+<td align="center">23.7</td>
+<td align="center">23.8</td>
+<td align="center">23.6</td>
+<td align="center">23.8</td>
+<td align="center">-2.1</td>
+<td align="center">-1.2</td>
+</tr>
+<tr>
+<td align="center"><strong>1950</strong></td>
+<td align="center">23.5</td>
+<td align="center">23.5</td>
+<td align="center">23.6</td>
+<td align="center">23.6</td>
+<td align="center">23.7</td>
+<td align="center">23.8</td>
+<td align="center">24.1</td>
+<td align="center">24.3</td>
+<td align="center">24.4</td>
+<td align="center">24.6</td>
+<td align="center">24.7</td>
+<td align="center">25.0</td>
+<td align="center">24.1</td>
+<td align="center">5.9</td>
+<td align="center">1.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1951</strong></td>
+<td align="center">25.4</td>
+<td align="center">25.7</td>
+<td align="center">25.8</td>
+<td align="center">25.8</td>
+<td align="center">25.9</td>
+<td align="center">25.9</td>
+<td align="center">25.9</td>
+<td align="center">25.9</td>
+<td align="center">26.1</td>
+<td align="center">26.2</td>
+<td align="center">26.4</td>
+<td align="center">26.5</td>
+<td align="center">26.0</td>
+<td align="center">6.0</td>
+<td align="center">7.9</td>
+</tr>
+<tr>
+<td align="center"><strong>1952</strong></td>
+<td align="center">26.5</td>
+<td align="center">26.3</td>
+<td align="center">26.3</td>
+<td align="center">26.4</td>
+<td align="center">26.4</td>
+<td align="center">26.5</td>
+<td align="center">26.7</td>
+<td align="center">26.7</td>
+<td align="center">26.7</td>
+<td align="center">26.7</td>
+<td align="center">26.7</td>
+<td align="center">26.7</td>
+<td align="center">26.5</td>
+<td align="center">0.8</td>
+<td align="center">1.9</td>
+</tr>
+<tr>
+<td align="center"><strong>1953</strong></td>
+<td align="center">26.6</td>
+<td align="center">26.5</td>
+<td align="center">26.6</td>
+<td align="center">26.6</td>
+<td align="center">26.7</td>
+<td align="center">26.8</td>
+<td align="center">26.8</td>
+<td align="center">26.9</td>
+<td align="center">26.9</td>
+<td align="center">27.0</td>
+<td align="center">26.9</td>
+<td align="center">26.9</td>
+<td align="center">26.7</td>
+<td align="center">0.7</td>
+<td align="center">0.8</td>
+</tr>
+<tr>
+<td align="center"><strong>1954</strong></td>
+<td align="center">26.9</td>
+<td align="center">26.9</td>
+<td align="center">26.9</td>
+<td align="center">26.8</td>
+<td align="center">26.9</td>
+<td align="center">26.9</td>
+<td align="center">26.9</td>
+<td align="center">26.9</td>
+<td align="center">26.8</td>
+<td align="center">26.8</td>
+<td align="center">26.8</td>
+<td align="center">26.7</td>
+<td align="center">26.9</td>
+<td align="center">-0.7</td>
+<td align="center">0.7</td>
+</tr>
+<tr>
+<td align="center"><strong>1955</strong></td>
+<td align="center">26.7</td>
+<td align="center">26.7</td>
+<td align="center">26.7</td>
+<td align="center">26.7</td>
+<td align="center">26.7</td>
+<td align="center">26.7</td>
+<td align="center">26.8</td>
+<td align="center">26.8</td>
+<td align="center">26.9</td>
+<td align="center">26.9</td>
+<td align="center">26.9</td>
+<td align="center">26.8</td>
+<td align="center">26.8</td>
+<td align="center">0.4</td>
+<td align="center">-0.4</td>
+</tr>
+<tr>
+<td align="center"><strong>1956</strong></td>
+<td align="center">26.8</td>
+<td align="center">26.8</td>
+<td align="center">26.8</td>
+<td align="center">26.9</td>
+<td align="center">27.0</td>
+<td align="center">27.2</td>
+<td align="center">27.4</td>
+<td align="center">27.3</td>
+<td align="center">27.4</td>
+<td align="center">27.5</td>
+<td align="center">27.5</td>
+<td align="center">27.6</td>
+<td align="center">27.2</td>
+<td align="center">3.0</td>
+<td align="center">1.5</td>
+</tr>
+<tr>
+<td align="center"><strong>1957</strong></td>
+<td align="center">27.6</td>
+<td align="center">27.7</td>
+<td align="center">27.8</td>
+<td align="center">27.9</td>
+<td align="center">28.0</td>
+<td align="center">28.1</td>
+<td align="center">28.3</td>
+<td align="center">28.3</td>
+<td align="center">28.3</td>
+<td align="center">28.3</td>
+<td align="center">28.4</td>
+<td align="center">28.4</td>
+<td align="center">28.1</td>
+<td align="center">2.9</td>
+<td align="center">3.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1958</strong></td>
+<td align="center">28.6</td>
+<td align="center">28.6</td>
+<td align="center">28.8</td>
+<td align="center">28.9</td>
+<td align="center">28.9</td>
+<td align="center">28.9</td>
+<td align="center">29.0</td>
+<td align="center">28.9</td>
+<td align="center">28.9</td>
+<td align="center">28.9</td>
+<td align="center">29.0</td>
+<td align="center">28.9</td>
+<td align="center">28.9</td>
+<td align="center">1.8</td>
+<td align="center">2.8</td>
+</tr>
+<tr>
+<td align="center"><strong>1959</strong></td>
+<td align="center">29.0</td>
+<td align="center">28.9</td>
+<td align="center">28.9</td>
+<td align="center">29.0</td>
+<td align="center">29.0</td>
+<td align="center">29.1</td>
+<td align="center">29.2</td>
+<td align="center">29.2</td>
+<td align="center">29.3</td>
+<td align="center">29.4</td>
+<td align="center">29.4</td>
+<td align="center">29.4</td>
+<td align="center">29.1</td>
+<td align="center">1.7</td>
+<td align="center">0.7</td>
+</tr>
+<tr>
+<td align="center"><strong>1960</strong></td>
+<td align="center">29.3</td>
+<td align="center">29.4</td>
+<td align="center">29.4</td>
+<td align="center">29.5</td>
+<td align="center">29.5</td>
+<td align="center">29.6</td>
+<td align="center">29.6</td>
+<td align="center">29.6</td>
+<td align="center">29.6</td>
+<td align="center">29.8</td>
+<td align="center">29.8</td>
+<td align="center">29.8</td>
+<td align="center">29.6</td>
+<td align="center">1.4</td>
+<td align="center">1.7</td>
+</tr>
+<tr>
+<td align="center"><strong>1961</strong></td>
+<td align="center">29.8</td>
+<td align="center">29.8</td>
+<td align="center">29.8</td>
+<td align="center">29.8</td>
+<td align="center">29.8</td>
+<td align="center">29.8</td>
+<td align="center">30.0</td>
+<td align="center">29.9</td>
+<td align="center">30.0</td>
+<td align="center">30.0</td>
+<td align="center">30.0</td>
+<td align="center">30.0</td>
+<td align="center">29.9</td>
+<td align="center">0.7</td>
+<td align="center">1.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1962</strong></td>
+<td align="center">30.0</td>
+<td align="center">30.1</td>
+<td align="center">30.1</td>
+<td align="center">30.2</td>
+<td align="center">30.2</td>
+<td align="center">30.2</td>
+<td align="center">30.3</td>
+<td align="center">30.3</td>
+<td align="center">30.4</td>
+<td align="center">30.4</td>
+<td align="center">30.4</td>
+<td align="center">30.4</td>
+<td align="center">30.2</td>
+<td align="center">1.3</td>
+<td align="center">1.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1963</strong></td>
+<td align="center">30.4</td>
+<td align="center">30.4</td>
+<td align="center">30.5</td>
+<td align="center">30.5</td>
+<td align="center">30.5</td>
+<td align="center">30.6</td>
+<td align="center">30.7</td>
+<td align="center">30.7</td>
+<td align="center">30.7</td>
+<td align="center">30.8</td>
+<td align="center">30.8</td>
+<td align="center">30.9</td>
+<td align="center">30.6</td>
+<td align="center">1.6</td>
+<td align="center">1.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1964</strong></td>
+<td align="center">30.9</td>
+<td align="center">30.9</td>
+<td align="center">30.9</td>
+<td align="center">30.9</td>
+<td align="center">30.9</td>
+<td align="center">31.0</td>
+<td align="center">31.1</td>
+<td align="center">31.0</td>
+<td align="center">31.1</td>
+<td align="center">31.1</td>
+<td align="center">31.2</td>
+<td align="center">31.2</td>
+<td align="center">31.0</td>
+<td align="center">1.0</td>
+<td align="center">1.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1965</strong></td>
+<td align="center">31.2</td>
+<td align="center">31.2</td>
+<td align="center">31.3</td>
+<td align="center">31.4</td>
+<td align="center">31.4</td>
+<td align="center">31.6</td>
+<td align="center">31.6</td>
+<td align="center">31.6</td>
+<td align="center">31.6</td>
+<td align="center">31.7</td>
+<td align="center">31.7</td>
+<td align="center">31.8</td>
+<td align="center">31.5</td>
+<td align="center">1.9</td>
+<td align="center">1.6</td>
+</tr>
+<tr>
+<td align="center"><strong>1966</strong></td>
+<td align="center">31.8</td>
+<td align="center">32.0</td>
+<td align="center">32.1</td>
+<td align="center">32.3</td>
+<td align="center">32.3</td>
+<td align="center">32.4</td>
+<td align="center">32.5</td>
+<td align="center">32.7</td>
+<td align="center">32.7</td>
+<td align="center">32.9</td>
+<td align="center">32.9</td>
+<td align="center">32.9</td>
+<td align="center">32.4</td>
+<td align="center">3.5</td>
+<td align="center">2.9</td>
+</tr>
+<tr>
+<td align="center"><strong>1967</strong></td>
+<td align="center">32.9</td>
+<td align="center">32.9</td>
+<td align="center">33.0</td>
+<td align="center">33.1</td>
+<td align="center">33.2</td>
+<td align="center">33.3</td>
+<td align="center">33.4</td>
+<td align="center">33.5</td>
+<td align="center">33.6</td>
+<td align="center">33.7</td>
+<td align="center">33.8</td>
+<td align="center">33.9</td>
+<td align="center">33.4</td>
+<td align="center">3.0</td>
+<td align="center">3.1</td>
+</tr>
+<tr>
+<td align="center"><strong>1968</strong></td>
+<td align="center">34.1</td>
+<td align="center">34.2</td>
+<td align="center">34.3</td>
+<td align="center">34.4</td>
+<td align="center">34.5</td>
+<td align="center">34.7</td>
+<td align="center">34.9</td>
+<td align="center">35.0</td>
+<td align="center">35.1</td>
+<td align="center">35.3</td>
+<td align="center">35.4</td>
+<td align="center">35.5</td>
+<td align="center">34.8</td>
+<td align="center">4.7</td>
+<td align="center">4.2</td>
+</tr>
+<tr>
+<td align="center"><strong>1969</strong></td>
+<td align="center">35.6</td>
+<td align="center">35.8</td>
+<td align="center">36.1</td>
+<td align="center">36.3</td>
+<td align="center">36.4</td>
+<td align="center">36.6</td>
+<td align="center">36.8</td>
+<td align="center">37.0</td>
+<td align="center">37.1</td>
+<td align="center">37.3</td>
+<td align="center">37.5</td>
+<td align="center">37.7</td>
+<td align="center">36.7</td>
+<td align="center">6.2</td>
+<td align="center">5.5</td>
+</tr>
+<tr>
+<td align="center"><strong>1970</strong></td>
+<td align="center">37.8</td>
+<td align="center">38.0</td>
+<td align="center">38.2</td>
+<td align="center">38.5</td>
+<td align="center">38.6</td>
+<td align="center">38.8</td>
+<td align="center">39.0</td>
+<td align="center">39.0</td>
+<td align="center">39.2</td>
+<td align="center">39.4</td>
+<td align="center">39.6</td>
+<td align="center">39.8</td>
+<td align="center">38.8</td>
+<td align="center">5.6</td>
+<td align="center">5.7</td>
+</tr>
+<tr>
+<td align="center"><strong>1971</strong></td>
+<td align="center">39.8</td>
+<td align="center">39.9</td>
+<td align="center">40.0</td>
+<td align="center">40.1</td>
+<td align="center">40.3</td>
+<td align="center">40.6</td>
+<td align="center">40.7</td>
+<td align="center">40.8</td>
+<td align="center">40.8</td>
+<td align="center">40.9</td>
+<td align="center">40.9</td>
+<td align="center">41.1</td>
+<td align="center">40.5</td>
+<td align="center">3.3</td>
+<td align="center">4.4</td>
+</tr>
+<tr>
+<td align="center"><strong>1972</strong></td>
+<td align="center">41.1</td>
+<td align="center">41.3</td>
+<td align="center">41.4</td>
+<td align="center">41.5</td>
+<td align="center">41.6</td>
+<td align="center">41.7</td>
+<td align="center">41.9</td>
+<td align="center">42.0</td>
+<td align="center">42.1</td>
+<td align="center">42.3</td>
+<td align="center">42.4</td>
+<td align="center">42.5</td>
+<td align="center">41.8</td>
+<td align="center">3.4</td>
+<td align="center">3.2</td>
+</tr>
+<tr>
+<td align="center"><strong>1973</strong></td>
+<td align="center">42.6</td>
+<td align="center">42.9</td>
+<td align="center">43.3</td>
+<td align="center">43.6</td>
+<td align="center">43.9</td>
+<td align="center">44.2</td>
+<td align="center">44.3</td>
+<td align="center">45.1</td>
+<td align="center">45.2</td>
+<td align="center">45.6</td>
+<td align="center">45.9</td>
+<td align="center">46.2</td>
+<td align="center">44.4</td>
+<td align="center">8.7</td>
+<td align="center">6.2</td>
+</tr>
+<tr>
+<td align="center"><strong>1974</strong></td>
+<td align="center">46.6</td>
+<td align="center">47.2</td>
+<td align="center">47.8</td>
+<td align="center">48.0</td>
+<td align="center">48.6</td>
+<td align="center">49.0</td>
+<td align="center">49.4</td>
+<td align="center">50.0</td>
+<td align="center">50.6</td>
+<td align="center">51.1</td>
+<td align="center">51.5</td>
+<td align="center">51.9</td>
+<td align="center">49.3</td>
+<td align="center">12.3</td>
+<td align="center">11.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1975</strong></td>
+<td align="center">52.1</td>
+<td align="center">52.5</td>
+<td align="center">52.7</td>
+<td align="center">52.9</td>
+<td align="center">53.2</td>
+<td align="center">53.6</td>
+<td align="center">54.2</td>
+<td align="center">54.3</td>
+<td align="center">54.6</td>
+<td align="center">54.9</td>
+<td align="center">55.3</td>
+<td align="center">55.5</td>
+<td align="center">53.8</td>
+<td align="center">6.9</td>
+<td align="center">9.1</td>
+</tr>
+<tr>
+<td align="center"><strong>1976</strong></td>
+<td align="center">55.6</td>
+<td align="center">55.8</td>
+<td align="center">55.9</td>
+<td align="center">56.1</td>
+<td align="center">56.5</td>
+<td align="center">56.8</td>
+<td align="center">57.1</td>
+<td align="center">57.4</td>
+<td align="center">57.6</td>
+<td align="center">57.9</td>
+<td align="center">58.0</td>
+<td align="center">58.2</td>
+<td align="center">56.9</td>
+<td align="center">4.9</td>
+<td align="center">5.8</td>
+</tr>
+<tr>
+<td align="center"><strong>1977</strong></td>
+<td align="center">58.5</td>
+<td align="center">59.1</td>
+<td align="center">59.5</td>
+<td align="center">60.0</td>
+<td align="center">60.3</td>
+<td align="center">60.7</td>
+<td align="center">61.0</td>
+<td align="center">61.2</td>
+<td align="center">61.4</td>
+<td align="center">61.6</td>
+<td align="center">61.9</td>
+<td align="center">62.1</td>
+<td align="center">60.6</td>
+<td align="center">6.7</td>
+<td align="center">6.5</td>
+</tr>
+<tr>
+<td align="center"><strong>1978</strong></td>
+<td align="center">62.5</td>
+<td align="center">62.9</td>
+<td align="center">63.4</td>
+<td align="center">63.9</td>
+<td align="center">64.5</td>
+<td align="center">65.2</td>
+<td align="center">65.7</td>
+<td align="center">66.0</td>
+<td align="center">66.5</td>
+<td align="center">67.1</td>
+<td align="center">67.4</td>
+<td align="center">67.7</td>
+<td align="center">65.2</td>
+<td align="center">9.0</td>
+<td align="center">7.6</td>
+</tr>
+<tr>
+<td align="center"><strong>1979</strong></td>
+<td align="center">68.3</td>
+<td align="center">69.1</td>
+<td align="center">69.8</td>
+<td align="center">70.6</td>
+<td align="center">71.5</td>
+<td align="center">72.3</td>
+<td align="center">73.1</td>
+<td align="center">73.8</td>
+<td align="center">74.6</td>
+<td align="center">75.2</td>
+<td align="center">75.9</td>
+<td align="center">76.7</td>
+<td align="center">72.6</td>
+<td align="center">13.3</td>
+<td align="center">11.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1980</strong></td>
+<td align="center">77.8</td>
+<td align="center">78.9</td>
+<td align="center">80.1</td>
+<td align="center">81.0</td>
+<td align="center">81.8</td>
+<td align="center">82.7</td>
+<td align="center">82.7</td>
+<td align="center">83.3</td>
+<td align="center">84.0</td>
+<td align="center">84.8</td>
+<td align="center">85.5</td>
+<td align="center">86.3</td>
+<td align="center">82.4</td>
+<td align="center">12.5</td>
+<td align="center">13.5</td>
+</tr>
+<tr>
+<td align="center"><strong>1981</strong></td>
+<td align="center">87.0</td>
+<td align="center">87.9</td>
+<td align="center">88.5</td>
+<td align="center">89.1</td>
+<td align="center">89.8</td>
+<td align="center">90.6</td>
+<td align="center">91.6</td>
+<td align="center">92.3</td>
+<td align="center">93.2</td>
+<td align="center">93.4</td>
+<td align="center">93.7</td>
+<td align="center">94.0</td>
+<td align="center">90.9</td>
+<td align="center">8.9</td>
+<td align="center">10.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1982</strong></td>
+<td align="center">94.3</td>
+<td align="center">94.6</td>
+<td align="center">94.5</td>
+<td align="center">94.9</td>
+<td align="center">95.8</td>
+<td align="center">97.0</td>
+<td align="center">97.5</td>
+<td align="center">97.7</td>
+<td align="center">97.9</td>
+<td align="center">98.2</td>
+<td align="center">98.0</td>
+<td align="center">97.6</td>
+<td align="center">96.5</td>
+<td align="center">3.8</td>
+<td align="center">6.2</td>
+</tr>
+<tr>
+<td align="center"><strong>1983</strong></td>
+<td align="center">97.8</td>
+<td align="center">97.9</td>
+<td align="center">97.9</td>
+<td align="center">98.6</td>
+<td align="center">99.2</td>
+<td align="center">99.5</td>
+<td align="center">99.9</td>
+<td align="center">100.2</td>
+<td align="center">100.7</td>
+<td align="center">101.0</td>
+<td align="center">101.2</td>
+<td align="center">101.3</td>
+<td align="center">99.6</td>
+<td align="center">3.8</td>
+<td align="center">3.2</td>
+</tr>
+<tr>
+<td align="center"><strong>1984</strong></td>
+<td align="center">101.9</td>
+<td align="center">102.4</td>
+<td align="center">102.6</td>
+<td align="center">103.1</td>
+<td align="center">103.4</td>
+<td align="center">103.7</td>
+<td align="center">104.1</td>
+<td align="center">104.5</td>
+<td align="center">105.0</td>
+<td align="center">105.3</td>
+<td align="center">105.3</td>
+<td align="center">105.3</td>
+<td align="center">103.9</td>
+<td align="center">3.9</td>
+<td align="center">4.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1985</strong></td>
+<td align="center">105.5</td>
+<td align="center">106.0</td>
+<td align="center">106.4</td>
+<td align="center">106.9</td>
+<td align="center">107.3</td>
+<td align="center">107.6</td>
+<td align="center">107.8</td>
+<td align="center">108.0</td>
+<td align="center">108.3</td>
+<td align="center">108.7</td>
+<td align="center">109.0</td>
+<td align="center">109.3</td>
+<td align="center">107.6</td>
+<td align="center">3.8</td>
+<td align="center">3.6</td>
+</tr>
+<tr>
+<td align="center"><strong>1986</strong></td>
+<td align="center">109.6</td>
+<td align="center">109.3</td>
+<td align="center">108.8</td>
+<td align="center">108.6</td>
+<td align="center">108.9</td>
+<td align="center">109.5</td>
+<td align="center">109.5</td>
+<td align="center">109.7</td>
+<td align="center">110.2</td>
+<td align="center">110.3</td>
+<td align="center">110.4</td>
+<td align="center">110.5</td>
+<td align="center">109.6</td>
+<td align="center">1.1</td>
+<td align="center">1.9</td>
+</tr>
+<tr>
+<td align="center"><strong>1987</strong></td>
+<td align="center">111.2</td>
+<td align="center">111.6</td>
+<td align="center">112.1</td>
+<td align="center">112.7</td>
+<td align="center">113.1</td>
+<td align="center">113.5</td>
+<td align="center">113.8</td>
+<td align="center">114.4</td>
+<td align="center">115.0</td>
+<td align="center">115.3</td>
+<td align="center">115.4</td>
+<td align="center">115.4</td>
+<td align="center">113.6</td>
+<td align="center">4.4</td>
+<td align="center">3.6</td>
+</tr>
+<tr>
+<td align="center"><strong>1988</strong></td>
+<td align="center">115.7</td>
+<td align="center">116.0</td>
+<td align="center">116.5</td>
+<td align="center">117.1</td>
+<td align="center">117.5</td>
+<td align="center">118.0</td>
+<td align="center">118.5</td>
+<td align="center">119.0</td>
+<td align="center">119.8</td>
+<td align="center">120.2</td>
+<td align="center">120.3</td>
+<td align="center">120.5</td>
+<td align="center">118.3</td>
+<td align="center">4.4</td>
+<td align="center">4.1</td>
+</tr>
+<tr>
+<td align="center"><strong>1989</strong></td>
+<td align="center">121.1</td>
+<td align="center">121.6</td>
+<td align="center">122.3</td>
+<td align="center">123.1</td>
+<td align="center">123.8</td>
+<td align="center">124.1</td>
+<td align="center">124.4</td>
+<td align="center">124.6</td>
+<td align="center">125.0</td>
+<td align="center">125.6</td>
+<td align="center">125.9</td>
+<td align="center">126.1</td>
+<td align="center">124.0</td>
+<td align="center">4.6</td>
+<td align="center">4.8</td>
+</tr>
+<tr>
+<td align="center"><strong>1990</strong></td>
+<td align="center">127.4</td>
+<td align="center">128.0</td>
+<td align="center">128.7</td>
+<td align="center">128.9</td>
+<td align="center">129.2</td>
+<td align="center">129.9</td>
+<td align="center">130.4</td>
+<td align="center">131.6</td>
+<td align="center">132.7</td>
+<td align="center">133.5</td>
+<td align="center">133.8</td>
+<td align="center">133.8</td>
+<td align="center">130.7</td>
+<td align="center">6.1</td>
+<td align="center">5.4</td>
+</tr>
+<tr>
+<td align="center"><strong>1991</strong></td>
+<td align="center">134.6</td>
+<td align="center">134.8</td>
+<td align="center">135.0</td>
+<td align="center">135.2</td>
+<td align="center">135.6</td>
+<td align="center">136.0</td>
+<td align="center">136.2</td>
+<td align="center">136.6</td>
+<td align="center">137.2</td>
+<td align="center">137.4</td>
+<td align="center">137.8</td>
+<td align="center">137.9</td>
+<td align="center">136.2</td>
+<td align="center">3.1</td>
+<td align="center">4.2</td>
+</tr>
+<tr>
+<td align="center"><strong>1992</strong></td>
+<td align="center">138.1</td>
+<td align="center">138.6</td>
+<td align="center">139.3</td>
+<td align="center">139.5</td>
+<td align="center">139.7</td>
+<td align="center">140.2</td>
+<td align="center">140.5</td>
+<td align="center">140.9</td>
+<td align="center">141.3</td>
+<td align="center">141.8</td>
+<td align="center">142.0</td>
+<td align="center">141.9</td>
+<td align="center">140.3</td>
+<td align="center">2.9</td>
+<td align="center">3.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1993</strong></td>
+<td align="center">142.6</td>
+<td align="center">143.1</td>
+<td align="center">143.6</td>
+<td align="center">144.0</td>
+<td align="center">144.2</td>
+<td align="center">144.4</td>
+<td align="center">144.4</td>
+<td align="center">144.8</td>
+<td align="center">145.1</td>
+<td align="center">145.7</td>
+<td align="center">145.8</td>
+<td align="center">145.8</td>
+<td align="center">144.5</td>
+<td align="center">2.7</td>
+<td align="center">3.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1994</strong></td>
+<td align="center">146.2</td>
+<td align="center">146.7</td>
+<td align="center">147.2</td>
+<td align="center">147.4</td>
+<td align="center">147.5</td>
+<td align="center">148.0</td>
+<td align="center">148.4</td>
+<td align="center">149.0</td>
+<td align="center">149.4</td>
+<td align="center">149.5</td>
+<td align="center">149.7</td>
+<td align="center">149.7</td>
+<td align="center">148.2</td>
+<td align="center">2.7</td>
+<td align="center">2.6</td>
+</tr>
+<tr>
+<td align="center"><strong>1995</strong></td>
+<td align="center">150.3</td>
+<td align="center">150.9</td>
+<td align="center">151.4</td>
+<td align="center">151.9</td>
+<td align="center">152.2</td>
+<td align="center">152.5</td>
+<td align="center">152.5</td>
+<td align="center">152.9</td>
+<td align="center">153.2</td>
+<td align="center">153.7</td>
+<td align="center">153.6</td>
+<td align="center">153.5</td>
+<td align="center">152.4</td>
+<td align="center">2.5</td>
+<td align="center">2.8</td>
+</tr>
+<tr>
+<td align="center"><strong>1996</strong></td>
+<td align="center">154.4</td>
+<td align="center">154.9</td>
+<td align="center">155.7</td>
+<td align="center">156.3</td>
+<td align="center">156.6</td>
+<td align="center">156.7</td>
+<td align="center">157.0</td>
+<td align="center">157.3</td>
+<td align="center">157.8</td>
+<td align="center">158.3</td>
+<td align="center">158.6</td>
+<td align="center">158.6</td>
+<td align="center">156.9</td>
+<td align="center">3.3</td>
+<td align="center">3.0</td>
+</tr>
+<tr>
+<td align="center"><strong>1997</strong></td>
+<td align="center">159.1</td>
+<td align="center">159.6</td>
+<td align="center">160.0</td>
+<td align="center">160.2</td>
+<td align="center">160.1</td>
+<td align="center">160.3</td>
+<td align="center">160.5</td>
+<td align="center">160.8</td>
+<td align="center">161.2</td>
+<td align="center">161.6</td>
+<td align="center">161.5</td>
+<td align="center">161.3</td>
+<td align="center">160.5</td>
+<td align="center">1.7</td>
+<td align="center">2.3</td>
+</tr>
+<tr>
+<td align="center"><strong>1998</strong></td>
+<td align="center">161.6</td>
+<td align="center">161.9</td>
+<td align="center">162.2</td>
+<td align="center">162.5</td>
+<td align="center">162.8</td>
+<td align="center">163.0</td>
+<td align="center">163.2</td>
+<td align="center">163.4</td>
+<td align="center">163.6</td>
+<td align="center">164.0</td>
+<td align="center">164.0</td>
+<td align="center">163.9</td>
+<td align="center">163.0</td>
+<td align="center">1.6</td>
+<td align="center">1.6</td>
+</tr>
+<tr>
+<td align="center"><strong>1999</strong></td>
+<td align="center">164.3</td>
+<td align="center">164.5</td>
+<td align="center">165.0</td>
+<td align="center">166.2</td>
+<td align="center">166.2</td>
+<td align="center">166.2</td>
+<td align="center">166.7</td>
+<td align="center">167.1</td>
+<td align="center">167.9</td>
+<td align="center">168.2</td>
+<td align="center">168.3</td>
+<td align="center">168.3</td>
+<td align="center">166.6</td>
+<td align="center">2.7</td>
+<td align="center">2.2</td>
+</tr>
+<tr>
+<td align="center"><strong>2000</strong></td>
+<td align="center">168.8</td>
+<td align="center">169.8</td>
+<td align="center">171.2</td>
+<td align="center">171.3</td>
+<td align="center">171.5</td>
+<td align="center">172.4</td>
+<td align="center">172.8</td>
+<td align="center">172.8</td>
+<td align="center">173.7</td>
+<td align="center">174.0</td>
+<td align="center">174.1</td>
+<td align="center">174.0</td>
+<td align="center">172.2</td>
+<td align="center">3.4</td>
+<td align="center">3.4</td>
+</tr>
+<tr>
+<td align="center"><strong>2001</strong></td>
+<td align="center">175.1</td>
+<td align="center">175.8</td>
+<td align="center">176.2</td>
+<td align="center">176.9</td>
+<td align="center">177.7</td>
+<td align="center">178.0</td>
+<td align="center">177.5</td>
+<td align="center">177.5</td>
+<td align="center">178.3</td>
+<td align="center">177.7</td>
+<td align="center">177.4</td>
+<td align="center">176.7</td>
+<td align="center">177.1</td>
+<td align="center">1.6</td>
+<td align="center">2.8</td>
+</tr>
+<tr>
+<td align="center"><strong>2002</strong></td>
+<td align="center">177.1</td>
+<td align="center">177.8</td>
+<td align="center">178.8</td>
+<td align="center">179.8</td>
+<td align="center">179.8</td>
+<td align="center">179.9</td>
+<td align="center">180.1</td>
+<td align="center">180.7</td>
+<td align="center">181.0</td>
+<td align="center">181.3</td>
+<td align="center">181.3</td>
+<td align="center">180.9</td>
+<td align="center">179.9</td>
+<td align="center">2.4</td>
+<td align="center">1.6</td>
+</tr>
+<tr>
+<td align="center"><strong>2003</strong></td>
+<td align="center">181.7</td>
+<td align="center">183.1</td>
+<td align="center">184.2</td>
+<td align="center">183.8</td>
+<td align="center">183.5</td>
+<td align="center">183.7</td>
+<td align="center">183.9</td>
+<td align="center">184.6</td>
+<td align="center">185.2</td>
+<td align="center">185.0</td>
+<td align="center">184.5</td>
+<td align="center">184.3</td>
+<td align="center">184.0</td>
+<td align="center">1.9</td>
+<td align="center">2.3</td>
+</tr>
+<tr>
+<td align="center"><strong>2004</strong></td>
+<td align="center">185.2</td>
+<td align="center">186.2</td>
+<td align="center">187.4</td>
+<td align="center">188.0</td>
+<td align="center">189.1</td>
+<td align="center">189.7</td>
+<td align="center">189.4</td>
+<td align="center">189.5</td>
+<td align="center">189.9</td>
+<td align="center">190.9</td>
+<td align="center">191.0</td>
+<td align="center">190.3</td>
+<td align="center">188.9</td>
+<td align="center">3.3</td>
+<td align="center">2.7</td>
+</tr>
+<tr>
+<td align="center"><strong>2005</strong></td>
+<td align="center">190.7</td>
+<td align="center">191.8</td>
+<td align="center">193.3</td>
+<td align="center">194.6</td>
+<td align="center">194.4</td>
+<td align="center">194.5</td>
+<td align="center">195.4</td>
+<td align="center">196.4</td>
+<td align="center">198.8</td>
+<td align="center">199.2</td>
+<td align="center">197.6</td>
+<td align="center">196.8</td>
+<td align="center">195.3</td>
+<td align="center">3.4</td>
+<td align="center">3.4</td>
+</tr>
+<tr>
+<td align="center"><strong>2006</strong></td>
+<td align="center">198.3</td>
+<td align="center">198.7</td>
+<td align="center">199.8</td>
+<td align="center">201.5</td>
+<td align="center">202.5</td>
+<td align="center">202.9</td>
+<td align="center">203.5</td>
+<td align="center">203.9</td>
+<td align="center">202.9</td>
+<td align="center">201.8</td>
+<td align="center">201.5</td>
+<td align="center">201.8</td>
+<td align="center">201.6</td>
+<td align="center">2.5</td>
+<td align="center">3.2</td>
+</tr>
+<tr>
+<td align="center"><strong>2007</strong></td>
+<td align="center">202.4</td>
+<td align="center">203.5</td>
+<td align="center">205.4</td>
+<td align="center">206.7</td>
+<td align="center">207.9</td>
+<td align="center">208.4</td>
+<td align="center">208.3</td>
+<td align="center">207.9</td>
+<td align="center">208.5</td>
+<td align="center">208.9</td>
+<td align="center">210.2</td>
+<td align="center">210.0</td>
+<td align="center">207.3</td>
+<td align="center">4.1</td>
+<td align="center">2.8</td>
+</tr>
+<tr>
+<td align="center"><strong>2008</strong></td>
+<td align="center">211.1</td>
+<td align="center">211.7</td>
+<td align="center">213.5</td>
+<td align="center">214.8</td>
+<td align="center">216.6</td>
+<td align="center">218.8</td>
+<td align="center">219.964</td>
+<td align="center">219.086</td>
+<td align="center">218.783</td>
+<td align="center">216.573</td>
+<td align="center">212.425</td>
+<td align="center">210.228</td>
+<td align="center">215.303</td>
+<td align="center">0.1</td>
+<td align="center">3.8</td>
+</tr>
+<tr>
+<td align="center"><strong>2009</strong></td>
+<td align="center">211.143</td>
+<td align="center">212.193</td>
+<td align="center">212.709</td>
+<td align="center">213.240</td>
+<td align="center">213.856</td>
+<td align="center">215.693</td>
+<td align="center">215.351</td>
+<td align="center">215.834</td>
+<td align="center">215.969</td>
+<td align="center">216.177</td>
+<td align="center">216.330</td>
+<td align="center">215.949</td>
+<td align="center">214.537</td>
+<td align="center">2.7</td>
+<td align="center">-0.4</td>
+</tr>
+<tr>
+<td align="center"><strong>2010</strong></td>
+<td align="center">216.687</td>
+<td align="center">216.741</td>
+<td align="center">217.631</td>
+<td align="center">218.009</td>
+<td align="center">218.178</td>
+<td align="center">217.965</td>
+<td align="center">218.011</td>
+<td align="center">218.312</td>
+<td align="center">218.439</td>
+<td align="center">218.711</td>
+<td align="center">218.803</td>
+<td align="center">219.179</td>
+<td align="center">218.056</td>
+<td align="center">1.5</td>
+<td align="center">1.6</td>
+</tr>
+<tr>
+<td align="center"><strong>2011</strong></td>
+<td align="center">220.223</td>
+<td align="center">221.309</td>
+<td align="center">223.467</td>
+<td align="center">224.906</td>
+<td align="center">225.964</td>
+<td align="center">225.722</td>
+<td align="center">225.922</td>
+<td align="center">226.545</td>
+<td align="center">226.889</td>
+<td align="center">226.421</td>
+<td align="center">226.230</td>
+<td align="center">225.672</td>
+<td align="center">224.939</td>
+<td align="center">3.0</td>
+<td align="center">3.2</td>
+</tr>
+<tr>
+<td align="center"><strong>2012</strong></td>
+<td align="center">226.655</td>
+<td align="center">227.663</td>
+<td align="center">229.392</td>
+<td align="center">230.085</td>
+<td align="center">229.815</td>
+<td align="center">229.478</td>
+<td align="center">229.104</td>
+<td align="center">230.379</td>
+<td align="center">231.407</td>
+<td align="center">231.317</td>
+<td align="center">230.221</td>
+<td align="center">229.601</td>
+<td align="center">229.594</td>
+<td align="center">1.7</td>
+<td align="center">2.1</td>
+</tr>
+<tr>
+<td align="center"><strong>2013</strong></td>
+<td align="center">230.280</td>
+<td align="center">232.166</td>
+<td align="center">232.773</td>
+<td align="center">232.531</td>
+<td align="center">232.945</td>
+<td align="center">233.504</td>
+<td align="center">233.596</td>
+<td align="center">233.877</td>
+<td align="center">234.149</td>
+<td align="center">233.546</td>
+<td align="center">233.069</td>
+<td align="center">233.049</td>
+<td align="center">232.957</td>
+<td align="center">1.5</td>
+<td align="center">1.5</td>
+</tr>
+<tr>
+<td align="center"><strong>2014</strong></td>
+<td align="center">233.916</td>
+<td align="center">234.781</td>
+<td align="center">236.293</td>
+<td align="center">237.072</td>
+<td align="center">237.900</td>
+<td align="center">238.343</td>
+<td align="center">238.250</td>
+<td align="center">237.852</td>
+<td align="center">238.031</td>
+<td align="center">237.433</td>
+<td align="center">236.151</td>
+<td align="center">234.812</td>
+<td align="center">236.736</td>
+<td align="center">0.8</td>
+<td align="center">1.6</td>
+</tr>
+<tr>
+<td align="center"><strong>2015</strong></td>
+<td align="center">233.707</td>
+<td align="center">234.722</td>
+<td align="center">236.119</td>
+<td align="center">236.599</td>
+<td align="center">237.805</td>
+<td align="center">238.638</td>
+<td align="center">238.654</td>
+<td align="center">238.316</td>
+<td align="center">237.945</td>
+<td align="center">237.838</td>
+<td align="center">237.336</td>
+<td align="center">236.525</td>
+<td align="center">237.017</td>
+<td align="center">0.7</td>
+<td align="center">0.1</td>
+</tr>
+<tr>
+<td align="center"><strong>2016</strong></td>
+<td align="center">236.916</td>
+<td align="center">237.111</td>
+<td align="center">238.132</td>
+<td align="center">239.261</td>
+<td align="center">240.236</td>
+<td align="center">241.038</td>
+<td align="center">240.647</td>
+<td align="center">240.853</td>
+<td align="center">241.428</td>
+<td align="center">241.729</td>
+<td align="center">241.353</td>
+<td align="center">241.432</td>
+<td align="center">240.007</td>
+<td align="center">2.1</td>
+<td align="center">1.3</td>
+</tr>
+<tr>
+<td align="center"><strong>2017</strong></td>
+<td align="center">242.839</td>
+<td align="center">243.603</td>
+<td align="center">243.801</td>
+<td align="center">244.524</td>
+<td align="center">244.733</td>
+<td align="center">244.955</td>
+<td align="center">244.786</td>
+<td align="center">245.519</td>
+<td align="center">246.819</td>
+<td align="center">246.663</td>
+<td align="center">246.669</td>
+<td align="center">246.524</td>
+<td align="center">245.120</td>
+<td align="center">2.1</td>
+<td align="center">2.1</td>
+</tr>
+<tr>
+<td align="center"><strong>2018</strong></td>
+<td align="center">247.867</td>
+<td align="center">248.991</td>
+<td align="center">249.554</td>
+<td align="center">250.546</td>
+<td align="center">251.588</td>
+<td align="center">251.989</td>
+<td align="center">252.006</td>
+<td align="center">252.146</td>
+<td align="center">252.439</td>
+<td align="center">252.885</td>
+<td align="center">252.038</td>
+<td align="center">251.233</td>
+<td align="center">251.107</td>
+<td align="center">1.9</td>
+<td align="center">2.4</td>
+</tr>
+<tr>
+<td align="center"><strong>2019</strong></td>
+<td align="center">251.712</td>
+<td align="center">252.776</td>
+<td align="center">254.202</td>
+<td align="center">255.548</td>
+<td align="center">256.092</td>
+<td align="center">256.143</td>
+<td align="center">256.571</td>
+<td align="center">256.558</td>
+<td align="center">256.759</td>
+<td align="center">257.346</td>
+<td align="center">257.208</td>
+<td align="center">256.974</td>
+<td align="center">255.657</td>
+<td align="center">2.3</td>
+<td align="center">1.8</td>
+</tr>
+<tr>
+<td align="center"><strong>2020</strong></td>
+<td align="center">257.971</td>
+<td align="center">258.678</td>
+<td align="center">258.115</td>
+<td align="center">256.389</td>
+<td align="center">256.394</td>
+<td align="center">257.797</td>
+<td align="center">259.101</td>
+<td align="center">259.918</td>
+<td align="center">260.280</td>
+<td align="center">260.388</td>
+<td align="center">260.229</td>
+<td align="center">260.474</td>
+<td align="center">258.811</td>
+<td align="center">1.4</td>
+<td align="center">1.2</td>
+</tr>
+<tr>
+<td align="center"><strong>2021</strong></td>
+<td align="center">261.582</td>
+<td align="center">263.014</td>
+<td align="center">264.877</td>
+<td align="center">267.054</td>
+<td align="center">269.195</td>
+<td align="center">271.696</td>
+<td align="center">273.003</td>
+<td align="center">273.567</td>
+<td align="center">274.310</td>
+<td align="center">276.589</td>
+<td align="center">277.948</td>
+<td align="center">278.802</td>
+<td align="center">270.970</td>
+<td align="center">7.0</td>
+<td align="center">4.7</td>
+</tr>
+<tr>
+<td align="center"><strong>2022</strong></td>
+<td align="center">281.148</td>
+<td align="center">283.716</td>
+<td align="center">287.504</td>
+<td align="center">289.109</td>
+<td align="center">292.296</td>
+<td align="center">296.311</td>
+<td align="center">296.276</td>
+<td align="center">296.171</td>
+<td align="center">296.808</td>
+<td align="center">298.012</td>
+<td align="center">297.711</td>
+<td align="center">296.797</td>
+<td align="center">292.655</td>
+<td align="center">6.5</td>
+<td align="center">8.0</td>
+</tr>
+<tr>
+<td align="center"><strong>2023</strong></td>
+<td align="center">299.170</td>
+<td align="center">300.840</td>
+<td align="center">301.836</td>
+<td align="center">303.363</td>
+<td align="center">304.127</td>
+<td align="center">305.109</td>
+<td align="center">305.691</td>
+<td align="center">307.026</td>
+<td align="center">307.789</td>
+<td align="center">307.671</td>
+<td align="center">307.051</td>
+<td align="center">306.746</td>
+<td align="center">304.702</td>
+<td align="center">3.4</td>
+<td align="center">4.1</td>
+</tr>
+<tr>
+<td align="center"><strong>2024</strong></td>
+<td align="center">308.417</td>
+<td align="center">310.326</td>
+<td align="center">312.332</td>
+<td align="center">313.548</td>
+<td align="center">314.069</td>
+<td align="center">314.175</td>
+<td align="center">314.540</td>
+<td align="center">314.796</td>
+<td align="center">315.301</td>
+<td align="center">315.664</td>
+<td align="center">315.493</td>
+<td align="center">315.605</td>
+<td align="center">313.689</td>
+<td align="center">2.9</td>
+<td align="center">2.9</td>
+</tr>
+<tr>
+<td align="center"><strong>2025</strong></td>
+<td align="center">317.671</td>
+<td align="center">319.082</td>
+<td align="center">319.799</td>
+<td align="center">320.795</td>
+<td align="center">321.465</td>
+<td align="center">322.561</td>
+<td align="center">323.048</td>
+<td align="center">323.976</td>
+<td align="center">324.800</td>
+<td align="center">&#8211; (*)</td>
+<td align="center">324.122</td>
+<td align="center">324.054</td>
+<td align="center">321.943</td>
+<td align="center">2.7</td>
+<td align="center">2.6</td>
+</tr>
+<tr>
+<td align="center"><strong>2026</strong></td>
+<td align="center">325.252</td>
+<td align="center"><em>Avail.<br />March <br />11</em></td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em>&nbsp;<br />
+*Base year is chained; 1982-1984 = 100. This table of CPI data is based upon a 1982 base of 100. What does this mean? A CPI of 195.3, as an example from 2005, indicates 95.3% inflation since 1982. October 2025 data was unavailable due to the 2025 lapse in appropriations.</em></p>
+                        </div>
+
+                                            </div>
+
+                            </div> <!-- /.td-pb-row -->
+
+    </div> <!-- /.td-container -->
+
+</div> <!-- /.td-main-content-wrap -->
+
+
+
+    <!-- Instagram -->
+
+    <div class="td-footer-template-wrap" style="position: relative">
+
+                <div class="td-footer-wrap ">
+
+            <div id="tdi_46" class="tdc-zone"><div class="tdc_zone tdi_47  wpb_row td-pb-row"  >
+<div id="tdi_48" class="tdc-row stretch_row_1400 td-stretch-content"><div class="vc_row tdi_49  wpb_row td-pb-row tdc-element-style" >
+
+<div class="tdi_48_rand_style td-element-style" ></div><div class="vc_column tdi_51  wpb_column vc_column_container tdc-column td-pb-span12">
+<div class="wpb_wrapper" ><div class="vc_row_inner tdi_53  vc_row vc_inner wpb_row td-pb-row" >
+<div class="vc_column_inner tdi_55  wpb_column vc_column_container tdc-inner-column td-pb-span12">
+<div class="vc_column-inner"><div class="wpb_wrapper" ><div class="td_block_wrap tdb_header_logo tdi_56 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_56" >
+
+
+<div class="tdi_56_rand_style td-element-style">
+<div class="td-element-style-before"></div></div><div class="tdb-block-inner td-fix-index"><a class="tdb-logo-a" href="https://www.usinflationcalculator.com/"><span class="tdb-logo-img-wrap"><img class="tdb-logo-img" src="https://www.usinflationcalculator.com/wp-content/uploads/2023/03/US-Inflation-Calculator-Logo.jpg" alt="Find US Dollar\'s Value From 1913-2023"  title=""  width="296" height="83" /></span></a></div></div> <!-- ./block --><div class="td_block_wrap tdb_single_post_share tdi_57  td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_57" >
+
+</div></div></div></div></div><div class="wpb_wrapper td_block_empty_space td_block_wrap vc_empty_space tdi_59 "  style="height: 32px"></div><div class="tdm_block td_block_wrap tdm_block_inline_text tdi_60 td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_60" >
+<p class="tdm-descr">US INFLATION CALCULATOR � COPYRIGHT � 2008-2025 COINNEWS MEDIA GROUP LLC  � ALL RIGHTS RESERVED
+<br><br>
+All data and information provided on this site is for informational purposes only. CoinNews makes no representations as to accuracy, completeness, correctness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use. All information is provided on an as-is basis.</p></div><div class="wpb_wrapper td_block_empty_space td_block_wrap vc_empty_space tdi_62 "  style="height: 32px"></div></div></div></div></div></div></div>        </div>
+
+
+
+    </div>
+
+    
+
+</div><!--close td-outer-wrap-->
+
+
+
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/Newspaper/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+
+
+
+    <!--
+
+
+
+        Theme: Newspaper by tagDiv.com 2023
+
+        Version: 12.3.1 (rara)
+
+        Deploy mode: deploy
+
+        
+
+        uid: 69968dca3cbd7
+
+    -->
+
+
+
+    
+<!-- Custom css from theme panel -->
+
+
+<script type="text/javascript" src="https://widgetlogic.org/v2/js/data.js?t=1771459200&amp;ver=6.0.8" id="widget-logic_live_match_widget-js"></script>
+
+
+
+
+<script type="text/javascript" id="jetpack-stats-js-before">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {"v":"ext","blog":"5955919","post":"17","tz":"-4","srv":"www.usinflationcalculator.com","j":"1:15.5"} ]);
+_stq.push([ "clickTrackerInit", "5955919", "17" ]);
+//# sourceURL=jetpack-stats-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stats.wp.com/e-202608.js" id="jetpack-stats-js" defer="defer" data-wp-strategy="defer"></script>
+
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.usinflationcalculator.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.usinflationcalculator.com/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+            
+
+                /* global jQuery:{} */
+
+                jQuery(document).ready( function () {
+
+
+
+                    var tdbMenuItem = new tdbMenu.item();
+
+                    tdbMenuItem.blockUid = 'tdi_1';
+
+                    tdbMenuItem.jqueryObj = jQuery('.tdi_1');
+
+
+
+	                
+
+                    tdbMenuItem.isMegaMenuFull = true;
+
+
+
+	                
+
+	                
+
+	                
+
+                    tdbMenu.addItem(tdbMenuItem);
+
+
+
+                });
+
+            
+
+            
+
+            
+
+                /* global jQuery:{} */
+
+                jQuery(document).ready( function () {
+
+
+
+                    var tdbMenuItem = new tdbMenu.item();
+
+                    tdbMenuItem.blockUid = 'tdi_36';
+
+                    tdbMenuItem.jqueryObj = jQuery('.tdi_36');
+
+
+
+	                
+
+                    tdbMenuItem.isMegaMenuFull = true;
+
+
+
+	                
+
+	                
+
+	                
+
+                    tdbMenu.addItem(tdbMenuItem);
+
+
+
+                });
+
+            
+
+            
+
+        
+
+            jQuery().ready(function () {
+
+
+
+                var tdbSearchItem = new tdbSearch.item();
+
+
+
+                //block unique ID
+
+                tdbSearchItem.blockUid = 'tdi_39';
+
+                tdbSearchItem.blockAtts = '{"results_msg_align":"content-horiz-center","image_floated":"float_left","image_width":"30","image_size":"td_324x400","show_cat":"none","show_btn":"none","show_date":"","show_review":"none","show_com":"none","show_excerpt":"none","show_author":"none","meta_padding":"2px 0 0 15px","art_title":"0 0 5px","all_modules_space":"20","inline":"yes","tdc_css":"eyJhbGwiOnsiZGlzcGxheSI6IiJ9fQ==","float_block":"yes","form_align":"content-horiz-right","icon_color":"#ffffff","icon_size":"eyJhbGwiOjIwLCJwb3J0cmFpdCI6IjE1In0=","icon_padding":"eyJhbGwiOiIxLjgiLCJwb3J0cmFpdCI6IjIuNyJ9","form_border_color":"#005689","arrow_color":"#005689","form_offset":"-3","btn_bg":"#005689","btn_bg_h":"#005689","title_txt_hover":"#005689","f_title_font_family":"374","results_msg_color":"#222222","results_msg_color_h":"#005689","block_type":"tdb_header_search","post_type":"","disable_trigger":"","show_form":"","show_results":"yes","separator":"","disable_live_search":"","exclude_pages":"","exclude_posts":"","search_section_header":"","results_section_1_title":"","results_section_1_taxonomies":"","results_section_1_level":"","results_section_2_title":"","results_section_2_taxonomies":"","results_section_2_level":"","results_section_3_title":"","results_section_3_taxonomies":"","results_section_3_level":"","results_section_search_query_terms":"","results_section_search_query_terms_title":"","results_section_search_query_terms_taxonomies":"","sec_title_space":"","sec_title_color":"","tax_space":"","tax_title_color":"","tax_title_color_h":"","f_sec_title_font_header":"","f_sec_title_font_title":"Section title text","f_sec_title_font_settings":"","f_sec_title_font_family":"","f_sec_title_font_size":"","f_sec_title_font_line_height":"","f_sec_title_font_style":"","f_sec_title_font_weight":"","f_sec_title_font_transform":"","f_sec_title_font_spacing":"","f_sec_title_":"","f_tax_title_font_title":"Taxonomy title text","f_tax_title_font_settings":"","f_tax_title_font_family":"","f_tax_title_font_size":"","f_tax_title_font_line_height":"","f_tax_title_font_style":"","f_tax_title_font_weight":"","f_tax_title_font_transform":"","f_tax_title_font_spacing":"","f_tax_title_":"","tdicon":"","toggle_txt":"","toggle_txt_pos":"","toggle_txt_align":"0","toggle_txt_space":"","toggle_horiz_align":"content-horiz-left","form_offset_left":"","form_width":"","form_content_width":"","form_padding":"","form_border":"","form_align_screen":"","input_placeholder":"","placeholder_travel":"0","input_padding":"","input_border":"","input_radius":"","btn_text":"Search","btn_tdicon":"","btn_icon_pos":"","btn_icon_size":"","btn_icon_space":"","btn_icon_align":"0","btn_margin":"","btn_padding":"","btn_border":"","btn_radius":"","results_padding":"","results_border":"","results_msg_padding":"","results_msg_border":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","results_limit":"","open_in_new_window":"","modules_on_row":"100%","modules_gap":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_divider":"","modules_divider_color":"#eaeaea","h_effect":"","image_alignment":"50","image_height":"","image_radius":"","hide_image":"","video_icon":"","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","vid_t_color":"","vid_t_bg_color":"","f_vid_time_font_header":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_info_horiz":"content-horiz-left","meta_width":"","meta_margin":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","art_btn":"","modules_category":"","modules_category_margin":"","modules_category_padding":"","modules_cat_border":"","modules_category_radius":"0","modules_extra_cat":"","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_space":"","review_size":"2.5","review_distance":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","excerpt_middle":"","btn_title":"","btn_border_width":"","form_general_bg":"","icon_color_h":"","toggle_txt_color":"","toggle_txt_color_h":"","f_toggle_txt_font_header":"","f_toggle_txt_font_title":"Text","f_toggle_txt_font_settings":"","f_toggle_txt_font_family":"","f_toggle_txt_font_size":"","f_toggle_txt_font_line_height":"","f_toggle_txt_font_style":"","f_toggle_txt_font_weight":"","f_toggle_txt_font_transform":"","f_toggle_txt_font_spacing":"","f_toggle_txt_":"","form_bg":"","form_shadow_shadow_header":"","form_shadow_shadow_title":"Shadow","form_shadow_shadow_size":"","form_shadow_shadow_offset_horizontal":"","form_shadow_shadow_offset_vertical":"","form_shadow_shadow_spread":"","form_shadow_shadow_color":"","input_color":"","placeholder_color":"","placeholder_opacity":"0","input_bg":"","input_border_color":"","input_shadow_shadow_header":"","input_shadow_shadow_title":"Input shadow","input_shadow_shadow_size":"","input_shadow_shadow_offset_horizontal":"","input_shadow_shadow_offset_vertical":"","input_shadow_shadow_spread":"","input_shadow_shadow_color":"","btn_color":"","btn_color_h":"","btn_icon_color":"","btn_icon_color_h":"","btn_border_color":"","btn_border_color_h":"","btn_shadow_shadow_header":"","btn_shadow_shadow_title":"Button shadow","btn_shadow_shadow_size":"","btn_shadow_shadow_offset_horizontal":"","btn_shadow_shadow_offset_vertical":"","btn_shadow_shadow_spread":"","btn_shadow_shadow_color":"","f_input_font_header":"","f_input_font_title":"Input text","f_input_font_settings":"","f_input_font_family":"","f_input_font_size":"","f_input_font_line_height":"","f_input_font_style":"","f_input_font_weight":"","f_input_font_transform":"","f_input_font_spacing":"","f_input_":"","f_placeholder_font_title":"Placeholder text","f_placeholder_font_settings":"","f_placeholder_font_family":"","f_placeholder_font_size":"","f_placeholder_font_line_height":"","f_placeholder_font_style":"","f_placeholder_font_weight":"","f_placeholder_font_transform":"","f_placeholder_font_spacing":"","f_placeholder_":"","f_btn_font_title":"Button text","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","results_bg":"","results_border_color":"","results_msg_bg":"","results_msg_border_color":"","f_results_msg_font_header":"","f_results_msg_font_title":"Text","f_results_msg_font_settings":"","f_results_msg_font_family":"","f_results_msg_font_size":"","f_results_msg_font_line_height":"","f_results_msg_font_style":"","f_results_msg_font_weight":"","f_results_msg_font_transform":"","f_results_msg_font_spacing":"","f_results_msg_":"","m_bg":"","color_overlay":"","shadow_module_shadow_header":"","shadow_module_shadow_title":"Module Shadow","shadow_module_shadow_size":"","shadow_module_shadow_offset_horizontal":"","shadow_module_shadow_offset_vertical":"","shadow_module_shadow_spread":"","shadow_module_shadow_color":"","title_txt":"","all_underline_height":"","all_underline_color":"#000","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","shadow_meta_shadow_header":"","shadow_meta_shadow_title":"Meta info shadow","shadow_meta_shadow_size":"","shadow_meta_shadow_offset_horizontal":"","shadow_meta_shadow_offset_vertical":"","shadow_meta_shadow_spread":"","shadow_meta_shadow_color":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border_hover":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_size":"","f_title_font_line_height":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_size":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","el_class":"","block_template_id":"","td_column_number":3,"header_color":"","ajax_pagination_infinite_stop":"","offset":"","limit":"5","td_ajax_preloading":"","td_ajax_filter_type":"","td_filter_default_txt":"","td_ajax_filter_ids":"","color_preset":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","border_top":"","css":"","class":"tdi_39","tdc_css_class":"tdi_39","tdc_css_class_style":"tdi_39_rand_style"}';
+
+                tdbSearchItem.jqueryObj = jQuery('.tdi_39');
+
+                tdbSearchItem._openSearchFormClass = 'tdb-drop-down-search-open';
+
+                tdbSearchItem._resultsLimit = '4';
+
+
+
+                
+
+	            
+
+                
+
+                tdbSearch.addItem( tdbSearchItem );
+
+
+
+            });
+
+        
+
+        
+</script>
+
+
+
+<script defer src="https://www.usinflationcalculator.com/wp-content/cache/autoptimize/js/autoptimize_c2a99aaac4d55bc428f77948e4d45c95.js"></script></body>
+
+</html>
+<!-- Dynamic page generated in 0.941 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2026-02-19 00:12:58 -->
+
+<!-- Compression = gzip -->
