@@ -8,7 +8,7 @@ class HyperLogLog:
         elif p is not None:
             self.p = p
         else:
-            raise Exception("p is not defined")
+            raise ValueError("p is not defined")
         
         self.q = q
         self.m = 2 ** self.p
@@ -25,18 +25,33 @@ class HyperLogLog:
             self.alpha_m = 0.7213 / (1 + 1.079 / self.m)
     
     def _hash(self, value):
-        return mmh3.hash(str(value)) & (self.q - 1)
+        hash_int = mmh3.hash(str(value))
+        binary = bin(hash_int & (2**self.q - 1))[2:].zfill(self.q)
+        return binary
+    
+    def _get_register_index(self, hash_binary):
+        return int(hash_binary[:self.p], 2)
+    
+    def _count_trailing_zeros(self, hash_binary):
+        remaining = hash_binary[self.p:]
+        
+        if not remaining:
+            return len(remaining) + 1
+        
+        zeros = 0
+        for bit in remaining:
+            if bit == '0':
+                zeros += 1
+            else:
+                break
+        
+        return zeros + 1
     
     def add(self, value):
-        x = self._hash(value)
-        idx = x & (self.m - 1)
-        w = x >> self.p
-
-        if w != 0:
-            zeroes = (self.q - w.bit_length()) + 1
-        else:
-            zeroes = self.q + 1
-
+        hash_binary = self._hash(value)
+        idx = self._get_register_index(hash_binary)
+        zeroes = self._count_trailing_zeros(hash_binary)
+        
         self.registers[idx] = max(self.registers[idx], zeroes)
     
     def __add__(self, other):

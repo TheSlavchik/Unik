@@ -1,0 +1,35 @@
+import sympy as sp
+
+def calculate_derivatives():
+    x = sp.Symbol('x')
+    point_value = float(input("Введите точку x: "))
+    
+    f = sp.sin(-1 + x) * sp.cos(1) + 0.1*((-1+x)**2+1)
+    f_prime = sp.diff(f, x)
+    f_double_prime = sp.diff(f, x, 2)
+
+    # Превращаем выражения SymPy в быстрые функции Python
+    func = sp.lambdify(x, f, 'math')
+    grad = sp.lambdify(x, f_prime, 'math')
+    hess = sp.lambdify(x, f_double_prime, 'math')
+
+    for _ in range(10):
+        # Вычисления теперь мгновенные, так как работают с float
+        val_f = func(point_value)
+        val_f_prime = grad(point_value)
+        val_f_double_prime = hess(point_value)
+        
+        new_point = point_value - (val_f_prime / val_f_double_prime)
+        
+        print(f"{point_value:.5f}|{val_f:.5f}|{val_f_prime:.5f}|{val_f_double_prime:.5f}|{new_point:.5f}")
+        point_value = new_point
+
+if __name__ == "__main__":
+    calculate_derivatives()
+
+
+f_prime = sp.diff(f, x)
+    f_double_prime = sp.diff(f, x, 2)
+    print(f"\nФункция: {f}")
+    print(f"Первая производная: {f_prime}")
+    print(f"Вторая производная: {f_double_prime}")

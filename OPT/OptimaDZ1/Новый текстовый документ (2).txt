@@ -1,0 +1,31 @@
+\ProvidesPackage{homework}
+
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage[T2A]{fontenc}
+\usepackage{hyphenat}
+
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\footnotesize \thepage}
+
+\usepackage{xcolor}
+\definecolor{linkcolor}{HTML}{0000FF}
+\usepackage{graphicx}
+\usepackage{amsmath, amsfonts, amssymb}
+
+\usepackage{listings}
+\lstset{
+    language=Python,
+    backgroundcolor=\color{gray!5},
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    keywordstyle=\color{blue},
+    commentstyle=\color{green!50!black},
+    stringstyle=\color{orange},
+    frame=tb,
+    numbers=left,
+    numberstyle=\tiny\color{gray}
+}
