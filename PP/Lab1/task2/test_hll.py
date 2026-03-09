@@ -1,8 +1,6 @@
 import unittest
-import numpy as np
 from hll import HyperLogLog
-from Lab1.task2.random_date_generator import random_date_generator
-import matplotlib.pyplot as plt
+from random_date_generator import random_date_generator
 
 class TestHyperLogLog(unittest.TestCase):
     def generate_stream(self, size):
