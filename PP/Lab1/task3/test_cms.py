@@ -28,7 +28,7 @@ class TestCMS(unittest.TestCase):
         for x in data1: cms1.add(x)
         for x in data2: cms2.add(x)
         
-        merged = cms1.merge(cms2)
+        merged = cms1 + cms2
         combined_true = c1 + c2
         err = sum(merged.estimate(x) - combined_true[x] for x in combined_true) / len(combined_true)
         print(f"Merged Error: {err:.4f}")

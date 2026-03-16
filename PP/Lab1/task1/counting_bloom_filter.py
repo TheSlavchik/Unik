@@ -5,7 +5,6 @@ class CountingBloomFilter(BloomFilter):
     def __init__(self, m=None, k=None, n=None, eps=None):
         super().__init__(m, k, n, eps)
         self.array = [0] * self.m
-        self.max_hash = 2 ** 30
 
     def add(self, item):
         for idx in self._get_indices(item):

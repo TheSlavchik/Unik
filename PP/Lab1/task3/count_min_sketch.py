@@ -24,7 +24,7 @@ class CountMinSketch:
             res = min(res, self.table[i][index])
         return res
 
-    def merge(self, other):
+    def __add__(self, other):
         new_sketch = CountMinSketch(d=self.d, w=self.w)
         new_sketch.table = self.table + other.table
         return new_sketch
