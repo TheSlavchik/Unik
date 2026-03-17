@@ -34,9 +34,6 @@ class HyperLogLog:
     def count_zeros(self, hash_binary):
         remaining = hash_binary[self.p:]
         
-        if not remaining:
-            return len(remaining) + 1
-        
         zeros = 0
         for bit in remaining:
             if bit == '0':
