@@ -11,7 +11,7 @@ from keyboards import (
     get_main_keyboard, get_cancel_keyboard, 
     get_project_actions_keyboard, get_categories_keyboard
 )
-
+5
 # Настройка логирования
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -112,7 +112,8 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def profile(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Начало заполнения профиля"""
-    await update.message.reply_text(
+    # await update.message.reply_text(
+    await update.effective_message.reply_text(
         "Давай заполним твой профиль. Это поможет находить подходящие проекты.\n\n"
         "Кто ты в команде? (Например: разработчик, дизайнер, менеджер и т.д.)",
         reply_markup=get_cancel_keyboard()
@@ -243,7 +244,8 @@ async def project_skills(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     # Создаем проект в БД
     project_id = db.add_project(
-        title=context.user_data['project_title'],
+        #title=context.user_data['project_title'],
+        title = context.user_data.get('project_title', 'Без названия'),
         description=context.user_data['project_description'],
         category=context.user_data['project_category'],
         required_skills=skills,
@@ -291,7 +293,12 @@ async def show_projects_list(update: Update, context: ContextTypes.DEFAULT_TYPE,
             f"🕒 {project['created_at']}"
         )
         
-        is_creator = project['creator_id'] == update.effective_user.id
+        #is_creator = project['creator_id'] == update.effective_user.id
+        if isinstance(update, Update):
+            is_creator = project['creator_id'] == update.from_user.id
+        else:
+            is_creator = project['creator_id'] == update.effective_user.id
+        #is_creator = project['creator_id'] == update.callback_query.from_user.id
         keyboard = get_project_actions_keyboard(project['project_id'], is_creator)
         
         await update.message.reply_text(
