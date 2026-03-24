@@ -11,7 +11,7 @@ from keyboards import (
     get_main_keyboard, get_cancel_keyboard, 
     get_project_actions_keyboard, get_categories_keyboard
 )
-5
+
 # Настройка логирования
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
