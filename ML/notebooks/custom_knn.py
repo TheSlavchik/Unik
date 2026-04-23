@@ -15,7 +15,7 @@ class CustomKNN:
         self.classes_ = np.unique(y)
         return self
     
-    def _compute_distances_optimized(self, X):
+    def _compute_distances(self, X):
         X = np.array(X)
         n_test = X.shape[0]
         n_train = self.X_train.shape[0]
@@ -40,7 +40,7 @@ class CustomKNN:
 
     def predict(self, X):
         X = np.array(X)
-        distances = self._compute_distances_optimized(X)
+        distances = self._compute_distances(X)
         
         k_indices = np.argpartition(distances, self.k, axis=1)[:, :self.k]
         
@@ -54,7 +54,7 @@ class CustomKNN:
     
     def predict_proba(self, X):
         X = np.array(X)
-        distances = self._compute_distances_optimized(X)
+        distances = self._compute_distances(X)
         k_indices = np.argpartition(distances, self.k, axis=1)[:, :self.k]
         
         neighbor_labels = self.y_train[k_indices]
