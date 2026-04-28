@@ -3,13 +3,9 @@ from pathlib import Path
 import os
 
 current_dir = Path(__file__).resolve().parent
-# Путь на уровень выше
 parent_dir = current_dir.parent
 
 core_dir = parent_dir / 'c_core'
-
-# curr_dir = os.path.abspath(os.path.dirname(__file__))
-# core_dir = os.path.join(curr_dir, 'c_core')
 
 module = Extension(
     'vector_lib',

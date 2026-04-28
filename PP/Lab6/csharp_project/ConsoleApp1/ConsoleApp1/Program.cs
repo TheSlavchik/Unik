@@ -23,13 +23,11 @@ class Program
 
         string jsonInput = $"{{\"weight\": \"{weight}\", \"height\": \"{height}\"}}";
         string escapedJson = jsonInput.Replace("\"", "\\\"");
-
         
         ProcessStartInfo start = new()
         {
             FileName = "python3",
             Arguments = $"\"{scriptPath}\" \"{escapedJson}\"",
-            UseShellExecute = false,
             RedirectStandardOutput = true,
             RedirectStandardError = true,
             CreateNoWindow = true

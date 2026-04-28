@@ -27,6 +27,3 @@ class TestCFFI:
     
     def run_test(self, pairs):
         return [self.dot_product(a, b) for a, b in pairs]
-
-# ops = VectorOps()
-# res = ops.dot_product([1.0, 2.0, 3.0, 4.0], [5.0, 6.0, 7.0, 8.0])
