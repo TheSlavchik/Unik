@@ -51,16 +51,3 @@ class CustomKNN:
             predictions.append(most_common)
             
         return np.array(predictions)
-    
-    def predict_proba(self, X):
-        X = np.array(X)
-        distances = self._compute_distances(X)
-        k_indices = np.argpartition(distances, self.k, axis=1)[:, :self.k]
-        
-        neighbor_labels = self.y_train[k_indices]
-        proba = np.zeros((len(X), len(self.classes_)))
-        
-        for i, cls in enumerate(self.classes_):
-            proba[:, i] = np.sum(neighbor_labels == cls, axis=1) / self.k
-            
-        return proba

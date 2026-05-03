@@ -18,7 +18,7 @@ class CARTBase:
         self._leaf_value_func = None
 
     def _build_tree(self, X, y, depth=0):
-        n_samples, n_features = X.shape
+        n_samples, _ = X.shape
         if n_samples >= self.min_samples_split and (self.max_depth is None or depth < self.max_depth):
             best_feature, best_threshold, best_gain = self._find_best_split(X, y)
             if best_gain > 1e-7:
@@ -35,7 +35,7 @@ class CARTBase:
         best_feature, best_threshold = None, None
         parent_val = self._criterion_func(y)
         for feature in range(X.shape[1]):
-            thresholds = np.unique(X[:, feature])
+            thresholds = np.unique(X[:, feature]) 
             for threshold in thresholds:
                 left_idx = X[:, feature] <= threshold
                 if np.sum(left_idx) == 0 or np.sum(~left_idx) == 0:
