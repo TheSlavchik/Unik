@@ -3,4 +3,9 @@ scikit-learn
 pandas
 matplotlib
 seaborn
-tensorflow
+numpy
+umap-learn
+optuna
+ray
+hyperopt
+keras_tuner
